@@ -4,19 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="2. java python introduction">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/3.Java_Softwares_Download.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/3.Java_Softwares_Download_Install.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="3. java software install">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/4. Java_First_Program.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/_4/exampleEmployee/EmployeeDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/4.Steps_to_create_java_first_program.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/1. Java Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/1. Java Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/2. Java &amp; Python.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/2. Java &amp; Python.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/1.Java_Introduction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/1.Java_Introduction.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/2. Java_Python_Introduction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/2. Java_Python_Introduction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/3.Java_Softwares_Download.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/3. Java_Softwares_Download.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731802621010</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3. java software install">
+      <option name="closed" value="true" />
+      <created>1731806303809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731806303809</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +133,7 @@
     <MESSAGE value="Introduction part notes" />
     <MESSAGE value="1. java introduction" />
     <MESSAGE value="2. java python introduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. java python introduction" />
+    <MESSAGE value="3. java software install" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. java software install" />
   </component>
 </project>
