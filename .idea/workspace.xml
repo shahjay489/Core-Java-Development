@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="4. java first program">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/5. Java_Program_Structure___Explanation.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="4. java first program structure added">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/6. Compile_Run_Java_Program.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/3. Java_Softwares_Download.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/3. Java_Softwares_Download.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/4. Java_First_Program.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/4. Java_First_Program.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/_4/exampleEmployee/EmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/_4_exampleEmployee/EmployeeDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731809925199</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4. java first program structure added">
+      <option name="closed" value="true" />
+      <created>1731813961743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731813961743</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +154,7 @@
     <MESSAGE value="2. java python introduction" />
     <MESSAGE value="3. java software install" />
     <MESSAGE value="4. java first program" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. java first program" />
+    <MESSAGE value="4. java first program structure added" />
+    <option name="LAST_COMMIT_MESSAGE" value="4. java first program structure added" />
   </component>
 </project>
