@@ -1,4 +1,4 @@
-package com.jayshah.chapter_1._4_exampleEmployee;
+package com.jayshah.chapter_1_Java_Introduction._4_exampleEmployee;
 
 /**
  *Company : NVIDIA, MicroSoft, Google, Meta, APPLE
