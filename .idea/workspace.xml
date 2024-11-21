@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="4. java first program - Compile &amp; Run Java Program information added">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/5. Java_main_method.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/7. main_method_syntaxes.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="5. java main method">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1/6. Java_compilation_execution.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731899600226</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="5. java main method">
+      <option name="closed" value="true" />
+      <created>1732019431558</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732019431558</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +170,7 @@
     <MESSAGE value="4. java first program" />
     <MESSAGE value="4. java first program structure added" />
     <MESSAGE value="4. java first program - Compile &amp; Run Java Program information added" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. java first program - Compile &amp; Run Java Program information added" />
+    <MESSAGE value="5. java main method" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. java main method" />
   </component>
 </project>
