@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="6. Compilation and Execution">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/1. Data Types.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_2_Terms_Fundamentals/1. Data_Types_in_Java_.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-2 : part -1 : data types">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/2. Type Casting.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/1. Java Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/1. Java Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/2. Java &amp; Python.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/2. Java &amp; Python.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/3. Java_Softwares_Download.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/3. Java_Softwares_Download.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/4. Java_First_Program.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/4. Java_First_Program.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/5. Java_main_method.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/5. Java_main_method.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/6. Java_compilation_execution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/6. Java_compilation_execution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1/_4_exampleEmployee/EmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/_4_exampleEmployee/EmployeeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/1.Java_Introduction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1_Java_Introduction/1.Java_Introduction.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/2. Java_Python_Introduction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1_Java_Introduction/2. Java_Python_Introduction.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/3.Java_Softwares_Download_Install.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1_Java_Introduction/3.Java_Softwares_Download_Install.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/4.Steps_to_create_java_first_program.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1_Java_Introduction/4.Steps_to_create_java_first_program.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/5. Java_Program_Structure___Explanation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1_Java_Introduction/5. Java_Program_Structure___Explanation.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/6. Compile_Run_Java_Program.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1_Java_Introduction/6. Compile_Run_Java_Program.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1/7. main_method_syntaxes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_1_Java_Introduction/7. main_method_syntaxes.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/1. Data Types.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/1. Data Types.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732152683072</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Chapter-2 : part -1 : data types">
+      <option name="closed" value="true" />
+      <created>1732158634464</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732158634464</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +190,7 @@
     <MESSAGE value="4. java first program - Compile &amp; Run Java Program information added" />
     <MESSAGE value="5. java main method" />
     <MESSAGE value="6. Compilation and Execution" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. Compilation and Execution" />
+    <MESSAGE value="Chapter-2 : part -1 : data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-2 : part -1 : data types" />
   </component>
 </project>
