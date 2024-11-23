@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-2 : part-6 : Keywords &amp; Identifiers in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/1. Selection_Statements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_2_Terms_Fundamentals/6. keywords_and_identifiers_in_java.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_3_Controls_Statements/1. selection_statements_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-3 : part-1 : Selection/ Conditional Statements">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/2. Iteration_Looping_Statements.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/5. Literals &amp; Operators.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/5. Literals_&amp;_Operators.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/6. Keywords &amp; Identifiers.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/6. Keywords_&amp;_Identifiers.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732369766001</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Chapter-3 : part-1 : Selection/ Conditional Statements">
+      <option name="closed" value="true" />
+      <created>1732377848265</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732377848265</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +246,7 @@
     <MESSAGE value="Chapter-2 : part-4 : variables in Java" />
     <MESSAGE value="Chapter-2 : part-5 : Literals &amp; Operators" />
     <MESSAGE value="Chapter-2 : part-6 : Keywords &amp; Identifiers in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-2 : part-6 : Keywords &amp; Identifiers in Java" />
+    <MESSAGE value="Chapter-3 : part-1 : Selection/ Conditional Statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-3 : part-1 : Selection/ Conditional Statements" />
   </component>
 </project>
