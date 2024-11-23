@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-2 : part-2 : type casting">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/3. Number System.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_2_Terms_Fundamentals/2. Type_Casting_in_Java.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_2_Terms_Fundamentals/3. Number_System_in_Java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-2 : part-3 : number system">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/4. Variables_in_Java.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_2_Terms_Fundamentals/4. Variables_in_Java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/2. Type Casting.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/2. Type Casting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/1. Java Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/1. Java_Introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/2. Java &amp; Python.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_1_Java_Introduction/2. Java_&amp;_Python.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/1. Data Types.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/1. Data_Types.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/2. Type Casting.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/2. Type_Casting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/3. Number System.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_2_Terms_Fundamentals/3. Number_System.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,17 +66,19 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_2_Terms_Fundamentals",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_2_Terms_Fundamentals",
     "settings.editor.selected.configurable": "project.scopes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_2_Terms_Fundamentals" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_1" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_1" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_1" />
     </key>
@@ -175,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732245376411</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Chapter-2 : part-3 : number system">
+      <option name="closed" value="true" />
+      <created>1732250572819</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732250572819</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +215,7 @@
     <MESSAGE value="6. Compilation and Execution" />
     <MESSAGE value="Chapter-2 : part -1 : data types" />
     <MESSAGE value="Chapter-2 : part-2 : type casting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-2 : part-2 : type casting" />
+    <MESSAGE value="Chapter-2 : part-3 : number system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-2 : part-3 : number system" />
   </component>
 </project>
