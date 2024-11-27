@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-3 : part-2 : Iteration/Looping Statements -1  in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/3. Iteration_Looping_Statements_2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_3_Controls_Statements/2. iteration_or_looping_statements_1_in_java_2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_3_Controls_Statements/3. iteration_or_looping_statements_2_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-3 : part-3 : Iteration/Looping Statements -2  in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/4. Jump_Statements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_3_Controls_Statements/4. jump_statements_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/2. Iteration_Looping_Statements_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/2. Iteration_Looping_Statements_1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732386463941</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Chapter-3 : part-3 : Iteration/Looping Statements -2  in Java">
+      <option name="closed" value="true" />
+      <created>1732472544597</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732472544597</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +265,7 @@
     <MESSAGE value="Chapter-2 : part-6 : Keywords &amp; Identifiers in Java" />
     <MESSAGE value="Chapter-3 : part-1 : Selection/ Conditional Statements" />
     <MESSAGE value="Chapter-3 : part-2 : Iteration/Looping Statements -1  in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-3 : part-2 : Iteration/Looping Statements -1  in Java" />
+    <MESSAGE value="Chapter-3 : part-3 : Iteration/Looping Statements -2  in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-3 : part-3 : Iteration/Looping Statements -2  in Java" />
   </component>
 </project>
