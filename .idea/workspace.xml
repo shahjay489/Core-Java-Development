@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-3 : part-4 : Jump Statements">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_5_Control_Statements_Programs/_1_Fibonacci_Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_5_Control_Statements_Programs/_2_Palindrome_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_5_Control_Statements_Programs/_3_Factorial_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_5_Control_Statements_Programs/_4_Prime_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_5_Control_Statements_Programs/_5_Armstrong_Number.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-3 : part-5 : Control Statements Programs">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_10_StarPattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_1_NestedForLoop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_2_NestedForLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_3_StarPattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_4_StarPattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_5_StarPattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_6_StarPattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_7_StarPattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_8_StarPattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_3_Control_Statements/_6_Star_Pattern_Programs/_9_StarPattern7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,12 +64,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.NestedForLoop2.executor": "Run",
     "Application.PrintFactorial2.executor": "Run",
+    "Application._10_StarPattern8.executor": "Run",
     "Application._1_Fibonacci_Series.executor": "Run",
+    "Application._1_NestedForLoop1.executor": "Run",
     "Application._2_Palindrome_Number.executor": "Run",
     "Application._3_Factorial_Number.executor": "Run",
+    "Application._3_StarPattern1.executor": "Run",
     "Application._4_Prime_Numbers.executor": "Run",
+    "Application._4_StarPattern2.executor": "Run",
     "Application._5_Armstrong_Number.executor": "Run",
+    "Application._5_StarPattern3.executor": "Run",
+    "Application._6_StarPattern4.executor": "Run",
+    "Application._7_StarPattern5.executor": "Run",
+    "Application._8_StarPattern6.executor": "Run",
+    "Application._9_StarPattern7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
@@ -86,6 +101,9 @@
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_1" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jayshah.chapter_3_Control_Statements._6_Star_Pattern_Programs" />
     </key>
   </component>
   <component name="RunManager">
@@ -269,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732669470174</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Chapter-3 : part-5 : Control Statements Programs">
+      <option name="closed" value="true" />
+      <created>1732679228809</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1732679228809</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +330,7 @@
     <MESSAGE value="Chapter-3 : part-2 : Iteration/Looping Statements -1  in Java" />
     <MESSAGE value="Chapter-3 : part-3 : Iteration/Looping Statements -2  in Java" />
     <MESSAGE value="Chapter-3 : part-4 : Jump Statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-3 : part-4 : Jump Statements" />
+    <MESSAGE value="Chapter-3 : part-5 : Control Statements Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-3 : part-5 : Control Statements Programs" />
   </component>
 </project>
