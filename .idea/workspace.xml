@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-3 : part-7 : Number - Alphabet Pattern Programs">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/1. Programming_Paradigm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/1. programming_paradigm_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-1 : Programming Paradigm in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/2. Class_Objects_Methods.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -313,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732857226183</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Chapter-4 : part-1 : Programming Paradigm in Java">
+      <option name="closed" value="true" />
+      <created>1732996647009</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1732996647009</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +358,7 @@
     <MESSAGE value="Chapter-3 : part-5 : Control Statements Programs" />
     <MESSAGE value="Chapter-3 : part-6 : Star Pattern Programs" />
     <MESSAGE value="Chapter-3 : part-7 : Number - Alphabet Pattern Programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-3 : part-7 : Number - Alphabet Pattern Programs" />
+    <MESSAGE value="Chapter-4 : part-1 : Programming Paradigm in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-1 : Programming Paradigm in Java" />
   </component>
 </project>
