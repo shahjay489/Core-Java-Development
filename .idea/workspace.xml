@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-1 : Programming Paradigm in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/2. Class_Objects_Methods.md" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-2 : Class, Methods &amp; Objects in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/3. Constructors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/3. Constructors_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/2. Class_Objects_Methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/2. Class_Objects_Methods.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732996647009</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Chapter-4 : part-2 : Class, Methods &amp; Objects in Java">
+      <option name="closed" value="true" />
+      <created>1732999951167</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1732999951167</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,6 +369,7 @@
     <MESSAGE value="Chapter-3 : part-6 : Star Pattern Programs" />
     <MESSAGE value="Chapter-3 : part-7 : Number - Alphabet Pattern Programs" />
     <MESSAGE value="Chapter-4 : part-1 : Programming Paradigm in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-1 : Programming Paradigm in Java" />
+    <MESSAGE value="Chapter-4 : part-2 : Class, Methods &amp; Objects in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-2 : Class, Methods &amp; Objects in Java" />
   </component>
 </project>
