@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-9 : Polymorphism (Method Overriding) in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/10. DataHiding_Abstraction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/10. dataHiding_abstraction_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-10 : Data-Hiding and Abstraction in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/11. Interfaces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/11. interfaces_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/8. Polymorphism_Method_Overloading.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/8. Polymorphism_Method_Overloading.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/10. DataHiding_Abstraction.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/10. DataHiding_Abstraction.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -387,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733331601952</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Chapter-4 : part-10 : Data-Hiding and Abstraction in Java">
+      <option name="closed" value="true" />
+      <created>1733336972193</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1733336972193</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +411,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="4. java first program - Compile &amp; Run Java Program information added" />
     <MESSAGE value="5. java main method" />
     <MESSAGE value="6. Compilation and Execution" />
     <MESSAGE value="Chapter-2 : part -1 : data types" />
@@ -428,6 +435,7 @@
     <MESSAGE value="Chapter-4 : part-7 : Dependency Injection &amp; USES-A Relation in Java" />
     <MESSAGE value="Chapter-4 : part-8 : Polymorphism (Method Overloading) in Java" />
     <MESSAGE value="Chapter-4 : part-9 : Polymorphism (Method Overriding) in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-9 : Polymorphism (Method Overriding) in Java" />
+    <MESSAGE value="Chapter-4 : part-10 : Data-Hiding and Abstraction in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-10 : Data-Hiding and Abstraction in Java" />
   </component>
 </project>
