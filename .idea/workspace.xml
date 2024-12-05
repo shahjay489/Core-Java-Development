@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-11 : Interfaces in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/12. Encapsulation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/12. encapsulation_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-12 : Encapsulation in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/13. This_Keyword.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/13. this_keyword_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -403,7 +402,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733341571886</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Chapter-4 : part-12 : Encapsulation in Java">
+      <option name="closed" value="true" />
+      <created>1733408905588</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1733408905588</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,7 +426,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="6. Compilation and Execution" />
     <MESSAGE value="Chapter-2 : part -1 : data types" />
     <MESSAGE value="Chapter-2 : part-2 : type casting" />
     <MESSAGE value="Chapter-2 : part-3 : number system" />
@@ -444,6 +450,7 @@
     <MESSAGE value="Chapter-4 : part-9 : Polymorphism (Method Overriding) in Java" />
     <MESSAGE value="Chapter-4 : part-10 : Data-Hiding and Abstraction in Java" />
     <MESSAGE value="Chapter-4 : part-11 : Interfaces in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-11 : Interfaces in Java" />
+    <MESSAGE value="Chapter-4 : part-12 : Encapsulation in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-12 : Encapsulation in Java" />
   </component>
 </project>
