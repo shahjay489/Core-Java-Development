@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-13 : “this” keyword in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/14. super_and _final_Keyword.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/14. super_and_final_keyword_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-14 : “super” and “final” keywords in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/15. Static_Variables_and _Blocks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/tenp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/15. static_variables_and_static_blocks_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/13. This_Keyword.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/13. this_Keyword.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,45 +54,46 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AlphabetPattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalManin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedForLoop2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintFactorial2.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_StarPattern8.executor&quot;: &quot;Run&quot;,
-    &quot;Application._11_StarPattern9.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1_Fibonacci_Series.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1_NestedForLoop1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2_Palindrome_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3_Factorial_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3_StarPattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_Prime_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_StarPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application._5_Armstrong_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._5_StarPattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application._6_StarPattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application._7_StarPattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application._8_StarPattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application._9_StarPattern7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AlphabetPattern1.executor": "Run",
+    "Application.AnimalManin.executor": "Run",
+    "Application.NestedForLoop2.executor": "Run",
+    "Application.NumberPattern1.executor": "Run",
+    "Application.NumberPattern2.executor": "Run",
+    "Application.NumberPattern3.executor": "Run",
+    "Application.NumberPattern4.executor": "Run",
+    "Application.NumberPattern5.executor": "Run",
+    "Application.NumberPattern6.executor": "Run",
+    "Application.NumberPattern7.executor": "Run",
+    "Application.NumberPattern8.executor": "Run",
+    "Application.PrintFactorial2.executor": "Run",
+    "Application._10_StarPattern8.executor": "Run",
+    "Application._11_StarPattern9.executor": "Run",
+    "Application._1_Fibonacci_Series.executor": "Run",
+    "Application._1_NestedForLoop1.executor": "Run",
+    "Application._2_Palindrome_Number.executor": "Run",
+    "Application._3_Factorial_Number.executor": "Run",
+    "Application._3_StarPattern1.executor": "Run",
+    "Application._4_Prime_Numbers.executor": "Run",
+    "Application._4_StarPattern2.executor": "Run",
+    "Application._5_Armstrong_Number.executor": "Run",
+    "Application._5_StarPattern3.executor": "Run",
+    "Application._6_StarPattern4.executor": "Run",
+    "Application._7_StarPattern5.executor": "Run",
+    "Application._8_StarPattern6.executor": "Run",
+    "Application._9_StarPattern7.executor": "Run",
+    "Application.tenp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_4_OOPS_Concepts" />
@@ -419,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733412939055</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Chapter-4 : part-14 : “super” and “final” keywords in Java">
+      <option name="closed" value="true" />
+      <created>1733417644011</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733417644011</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +444,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-2 : part-2 : type casting" />
     <MESSAGE value="Chapter-2 : part-3 : number system" />
     <MESSAGE value="Chapter-2 : part-4 : variables in Java" />
     <MESSAGE value="Chapter-2 : part-5 : Literals &amp; Operators" />
@@ -460,6 +468,7 @@
     <MESSAGE value="Chapter-4 : part-11 : Interfaces in Java" />
     <MESSAGE value="Chapter-4 : part-12 : Encapsulation in Java" />
     <MESSAGE value="Chapter-4 : part-13 : “this” keyword in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-13 : “this” keyword in Java" />
+    <MESSAGE value="Chapter-4 : part-14 : “super” and “final” keywords in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-14 : “super” and “final” keywords in Java" />
   </component>
 </project>
