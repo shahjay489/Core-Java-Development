@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-14 : “super” and “final” keywords in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/15. Static_Variables_and _Blocks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/tenp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/15. static_variables_and_static_blocks_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-15 : Static variables and static blocks in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/16. Nested_Classes .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/16. nested_classes_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
     "Application.NumberPattern7.executor": "Run",
     "Application.NumberPattern8.executor": "Run",
     "Application.PrintFactorial2.executor": "Run",
+    "Application.Temp.executor": "Run",
     "Application._10_StarPattern8.executor": "Run",
     "Application._11_StarPattern9.executor": "Run",
     "Application._1_Fibonacci_Series.executor": "Run",
@@ -428,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733417644011</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Chapter-4 : part-15 : Static variables and static blocks in Java">
+      <option name="closed" value="true" />
+      <created>1733608324378</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1733608324378</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,7 +453,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-2 : part-3 : number system" />
     <MESSAGE value="Chapter-2 : part-4 : variables in Java" />
     <MESSAGE value="Chapter-2 : part-5 : Literals &amp; Operators" />
     <MESSAGE value="Chapter-2 : part-6 : Keywords &amp; Identifiers in Java" />
@@ -469,6 +477,7 @@
     <MESSAGE value="Chapter-4 : part-12 : Encapsulation in Java" />
     <MESSAGE value="Chapter-4 : part-13 : “this” keyword in Java" />
     <MESSAGE value="Chapter-4 : part-14 : “super” and “final” keywords in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-14 : “super” and “final” keywords in Java" />
+    <MESSAGE value="Chapter-4 : part-15 : Static variables and static blocks in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-15 : Static variables and static blocks in Java" />
   </component>
 </project>
