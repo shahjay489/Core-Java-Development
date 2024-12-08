@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-17 : “Static Methods” &amp; “Static Nested Class” in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/18. Pre_Defined_Packages.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/18. predefined_packages_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-18 : Pre-Defined Packages in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_4_OOPS_Concepts/19. User_Defined_Packages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_4_OOPS_Concepts/19. user-defined_packages_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -452,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733672038575</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Chapter-4 : part-18 : Pre-Defined Packages in Java">
+      <option name="closed" value="true" />
+      <created>1733687815531</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1733687815531</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,7 +476,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-2 : part-6 : Keywords &amp; Identifiers in Java" />
     <MESSAGE value="Chapter-3 : part-1 : Selection/ Conditional Statements" />
     <MESSAGE value="Chapter-3 : part-2 : Iteration/Looping Statements -1  in Java" />
     <MESSAGE value="Chapter-3 : part-3 : Iteration/Looping Statements -2  in Java" />
@@ -493,6 +500,7 @@
     <MESSAGE value="Chapter-4 : part-15 : Static variables and static blocks in Java" />
     <MESSAGE value="Chapter-4 : part-16 : ## Nested Classes in Java" />
     <MESSAGE value="Chapter-4 : part-17 : “Static Methods” &amp; “Static Nested Class” in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-17 : “Static Methods” &amp; “Static Nested Class” in Java" />
+    <MESSAGE value="Chapter-4 : part-18 : Pre-Defined Packages in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-18 : Pre-Defined Packages in Java" />
   </component>
 </project>
