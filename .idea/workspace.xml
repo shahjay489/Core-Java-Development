@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-4 : part-20 : Jar File &amp; MANIFEST.MF File in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_5_GUI_AWT_SWING/1. AWT_&amp;_Swing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_5_GUI_AWT_SWING/2. Event_Handling_in_AWT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_5_GUI_AWT_SWING/1. awt_and_swing_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version1/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version1/TicTacToeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version2/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version2/TicTacToeGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version2/UserPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version3/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version3/TicTacToeGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version3/UserPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4/TicTacToeGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4/UserPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4_2/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4_2/TicTacToeGame3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4_2/UserPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4_2/WhoWinSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +71,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AlphabetPattern1.executor": "Run",
     "Application.AnimalManin.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.NestedForLoop2.executor": "Run",
     "Application.NumberPattern1.executor": "Run",
     "Application.NumberPattern2.executor": "Run",
@@ -70,6 +83,9 @@
     "Application.NumberPattern8.executor": "Run",
     "Application.PrintFactorial2.executor": "Run",
     "Application.Temp.executor": "Run",
+    "Application.TicTacToeGame.executor": "Run",
+    "Application.TicTacToeGame2.executor": "Run",
+    "Application.TicTacToeGame3.executor": "Run",
     "Application._10_StarPattern8.executor": "Run",
     "Application._11_StarPattern9.executor": "Run",
     "Application._1_Fibonacci_Series.executor": "Run",
@@ -91,17 +107,17 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_5_GUI_AWT_SWING",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_6_TikTokGame/version3",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_6_TikTokGame\version3" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_5_GUI_AWT_SWING" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_4_OOPS_Concepts" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_3_Controls_Statements" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_2_Terms_Fundamentals" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
@@ -126,9 +142,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToeGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jayshah.chapter_6_TikTokGame.version1.TicTacToeGame" />
+      <module name="CoreJavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jayshah.chapter_6_TikTokGame.version1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.PrintFactorial2" />
+        <item itemvalue="Application.TicTacToeGame" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733695029572</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT">
+      <option name="closed" value="true" />
+      <created>1734066573618</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1734066573618</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +531,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-3 : part-3 : Iteration/Looping Statements -2  in Java" />
     <MESSAGE value="Chapter-3 : part-4 : Jump Statements" />
     <MESSAGE value="Chapter-3 : part-5 : Control Statements Programs" />
     <MESSAGE value="Chapter-3 : part-6 : Star Pattern Programs" />
@@ -518,6 +555,7 @@
     <MESSAGE value="Chapter-4 : part-18 : Pre-Defined Packages in Java" />
     <MESSAGE value="Chapter-4 : part-19 : User-Defined Packages in Java" />
     <MESSAGE value="Chapter-4 : part-20 : Jar File &amp; MANIFEST.MF File in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-4 : part-20 : Jar File &amp; MANIFEST.MF File in Java" />
+    <MESSAGE value="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT" />
   </component>
 </project>
