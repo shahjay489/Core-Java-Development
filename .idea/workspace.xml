@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version1/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version1/TicTacToeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version2/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version2/TicTacToeGame2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version2/UserPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version3/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version3/TicTacToeGame2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version3/UserPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4/TicTacToeGame2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4/UserPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4_2/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4_2/TicTacToeGame3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4_2/UserPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_6_TikTokGame/version4_2/WhoWinSeries.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-6 : TicTac Game">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/1. Error_&amp;_Exception_intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_1_Error_Exception_intro/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_1_Error_Exception_intro/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +71,8 @@
     "Application.NumberPattern8.executor": "Run",
     "Application.PrintFactorial2.executor": "Run",
     "Application.Temp.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.Test2.executor": "Run",
     "Application.TicTacToeGame.executor": "Run",
     "Application.TicTacToeGame2.executor": "Run",
     "Application.TicTacToeGame3.executor": "Run",
@@ -107,17 +97,17 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_6_TikTokGame/version3",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_6_TikTokGame\version3" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_5_GUI_AWT_SWING" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_4_OOPS_Concepts" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_3_Controls_Statements" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
@@ -515,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734066573618</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Chapter-6 : TicTac Game">
+      <option name="closed" value="true" />
+      <created>1742043018043</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1742043018043</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -531,7 +529,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-3 : part-4 : Jump Statements" />
     <MESSAGE value="Chapter-3 : part-5 : Control Statements Programs" />
     <MESSAGE value="Chapter-3 : part-6 : Star Pattern Programs" />
     <MESSAGE value="Chapter-3 : part-7 : Number - Alphabet Pattern Programs" />
@@ -556,6 +553,7 @@
     <MESSAGE value="Chapter-4 : part-19 : User-Defined Packages in Java" />
     <MESSAGE value="Chapter-4 : part-20 : Jar File &amp; MANIFEST.MF File in Java" />
     <MESSAGE value="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT" />
+    <MESSAGE value="Chapter-6 : TicTac Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-6 : TicTac Game" />
   </component>
 </project>
