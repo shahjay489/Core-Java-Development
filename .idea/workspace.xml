@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-6 : TicTac Game">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/1. Error_&amp;_Exception_intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_1_Error_Exception_intro/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_1_Error_Exception_intro/Test2.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/2. Checked_Unchecked_Exceptions_Throw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/checkedexception/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/demo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/demo/Voting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +79,7 @@
     "Application.TicTacToeGame.executor": "Run",
     "Application.TicTacToeGame2.executor": "Run",
     "Application.TicTacToeGame3.executor": "Run",
+    "Application.Voting.executor": "Run",
     "Application._10_StarPattern8.executor": "Run",
     "Application._11_StarPattern9.executor": "Run",
     "Application._1_Fibonacci_Series.executor": "Run",
@@ -513,7 +517,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742043018043</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction">
+      <option name="closed" value="true" />
+      <created>1742053916069</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1742053916069</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes">
+      <option name="closed" value="true" />
+      <created>1742159517865</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1742159517865</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,8 +549,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-3 : part-5 : Control Statements Programs" />
-    <MESSAGE value="Chapter-3 : part-6 : Star Pattern Programs" />
     <MESSAGE value="Chapter-3 : part-7 : Number - Alphabet Pattern Programs" />
     <MESSAGE value="Chapter-4 : part-1 : Programming Paradigm in Java" />
     <MESSAGE value="Chapter-4 : part-2 : Class, Methods &amp; Objects in Java" />
@@ -554,6 +572,8 @@
     <MESSAGE value="Chapter-4 : part-20 : Jar File &amp; MANIFEST.MF File in Java" />
     <MESSAGE value="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT" />
     <MESSAGE value="Chapter-6 : TicTac Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-6 : TicTac Game" />
+    <MESSAGE value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction" />
+    <MESSAGE value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes" />
   </component>
 </project>
