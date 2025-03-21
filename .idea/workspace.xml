@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/2. Checked_Unchecked_Exceptions_Throw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/checkedexception/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/demo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_2_Checked_Unchecked_Exceptions_Throw/demo/Voting.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-7 : pdf files attached for part 1,2,3">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/3. Throws_Try_Catch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/conceptPrograms/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/conceptPrograms/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/conceptPrograms/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/conceptPrograms/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/exceptionhandling2/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/exceptionhandling2/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +77,8 @@
     "Application.Temp.executor": "Run",
     "Application.Test1.executor": "Run",
     "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test4.executor": "Run",
     "Application.TicTacToeGame.executor": "Run",
     "Application.TicTacToeGame2.executor": "Run",
     "Application.TicTacToeGame3.executor": "Run",
@@ -101,17 +104,17 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_7_Exception_Handling",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_7_Exception_Handling" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_6_TikTokGame\version3" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_5_GUI_AWT_SWING" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_4_OOPS_Concepts" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_3_Controls_Statements" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
@@ -533,7 +536,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742159517865</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Chapter-7 : Part-2 : 7.2 Checked &amp; Unchecked Exception in Java, Throw keyword">
+      <option name="closed" value="true" />
+      <created>1742160667001</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1742160667001</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Chapter-7 : pdf files attached for part 1,2,3">
+      <option name="closed" value="true" />
+      <created>1742379417966</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1742379417966</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -549,8 +568,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-3 : part-7 : Number - Alphabet Pattern Programs" />
-    <MESSAGE value="Chapter-4 : part-1 : Programming Paradigm in Java" />
     <MESSAGE value="Chapter-4 : part-2 : Class, Methods &amp; Objects in Java" />
     <MESSAGE value="Chapter-4 : part-3 : Constructors" />
     <MESSAGE value="Chapter-4 : part-4 : Object Creation in Java" />
@@ -574,6 +591,8 @@
     <MESSAGE value="Chapter-6 : TicTac Game" />
     <MESSAGE value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction" />
     <MESSAGE value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes" />
+    <MESSAGE value="Chapter-7 : Part-2 : 7.2 Checked &amp; Unchecked Exception in Java, Throw keyword" />
+    <MESSAGE value="Chapter-7 : pdf files attached for part 1,2,3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-7 : pdf files attached for part 1,2,3" />
   </component>
 </project>
