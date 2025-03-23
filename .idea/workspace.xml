@@ -4,27 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/4. Try_Catch_Block_Comb_Finally.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/MultiCatchBlock1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/exceptionhandling3/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/exceptionhandling3/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/finallyBlockPrograms/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/finallyBlockPrograms/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_7_Exception_Handling/4. try_catch_block_combinations_and_finally_block_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-7 : Part-4 : 7.4 try-catch block combinations, finally block in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/5. Try_Catch_Finally_Combination_UDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/tryCatchCombinationProgram/TryCatchFinally1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/tryCatchCombinationProgram/TryCatchFinally2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/tryCatchCombinationProgram/TryCatchFinally3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/tryCatchCombinationProgram/TryCatchFinally4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/tryCatchCombinationProgram/TryCatchFinally5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/tryCatchCombinationProgram/TryCatchFinally6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/tryCatchCombinationProgram/TryCatchFinally7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/tryCatchCombinationProgram/TryCatchFinally8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/voting/InvalidAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_5_Try_Catch_Finally_Combination_UDE/voting/Voting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_7_Exception_Handling/5. try_catch_finally_block_combinations_and_user_defined_exceptions_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +98,8 @@
     "Application.TryCatch6.executor": "Run",
     "Application.TryCatch7.executor": "Run",
     "Application.TryCatch8.executor": "Run",
+    "Application.TryCatchFinally5.executor": "Run",
+    "Application.TryCatchFinally7.executor": "Run",
     "Application.Voting.executor": "Run",
     "Application._10_StarPattern8.executor": "Run",
     "Application._11_StarPattern9.executor": "Run",
@@ -191,14 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Introduction part notes">
-      <option name="closed" value="true" />
-      <created>1731784021047</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1731784021047</updated>
     </task>
     <task id="LOCAL-00002" summary="1. java introduction">
       <option name="closed" value="true" />
@@ -584,7 +570,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742528582798</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Chapter-7 : Part-4 : 7.4 try-catch block combinations, finally block in Java">
+      <option name="closed" value="true" />
+      <created>1742762320230</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1742762320231</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -600,7 +594,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-4 : part-3 : Constructors" />
     <MESSAGE value="Chapter-4 : part-4 : Object Creation in Java" />
     <MESSAGE value="Chapter-4 : part-5 : Inheritance - Relationship(IS-A) in Java" />
     <MESSAGE value="Chapter-4 : part-6 : HAS-A Relationship (Association) - Composition &amp; Aggregation in Java" />
@@ -625,6 +618,7 @@
     <MESSAGE value="Chapter-7 : Part-2 : 7.2 Checked &amp; Unchecked Exception in Java, Throw keyword" />
     <MESSAGE value="Chapter-7 : pdf files attached for part 1,2,3" />
     <MESSAGE value="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java" />
+    <MESSAGE value="Chapter-7 : Part-4 : 7.4 try-catch block combinations, finally block in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-7 : Part-4 : 7.4 try-catch block combinations, finally block in Java" />
   </component>
 </project>
