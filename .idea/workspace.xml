@@ -4,14 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-7 : pdf files attached for part 1,2,3">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/3. Throws_Try_Catch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/conceptPrograms/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/conceptPrograms/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/conceptPrograms/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/conceptPrograms/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/exceptionhandling2/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_3_Throws_Try_Catch/exceptionhandling2/Test2.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/4. Try_Catch_Block_Comb_Finally.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/MultiCatchBlock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/TryCatchBlockCombination/TryCatch9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/exceptionhandling3/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/exceptionhandling3/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/finallyBlockPrograms/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_7_Exception_Handling/_4_Try_Catch_Block_Comb_Finally/finallyBlockPrograms/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_7_Exception_Handling/4. try_catch_block_combinations_and_finally_block_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +77,7 @@
     "Application.AlphabetPattern1.executor": "Run",
     "Application.AnimalManin.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.MultiCatchBlock1.executor": "Run",
     "Application.NestedForLoop2.executor": "Run",
     "Application.NumberPattern1.executor": "Run",
     "Application.NumberPattern2.executor": "Run",
@@ -82,6 +96,16 @@
     "Application.TicTacToeGame.executor": "Run",
     "Application.TicTacToeGame2.executor": "Run",
     "Application.TicTacToeGame3.executor": "Run",
+    "Application.TryCatch1.executor": "Run",
+    "Application.TryCatch10.executor": "Run",
+    "Application.TryCatch11.executor": "Run",
+    "Application.TryCatch2.executor": "Run",
+    "Application.TryCatch3.executor": "Run",
+    "Application.TryCatch4.executor": "Run",
+    "Application.TryCatch5.executor": "Run",
+    "Application.TryCatch6.executor": "Run",
+    "Application.TryCatch7.executor": "Run",
+    "Application.TryCatch8.executor": "Run",
     "Application.Voting.executor": "Run",
     "Application._10_StarPattern8.executor": "Run",
     "Application._11_StarPattern9.executor": "Run",
@@ -552,7 +576,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742379417966</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java">
+      <option name="closed" value="true" />
+      <created>1742528582798</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1742528582798</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -568,7 +600,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-4 : part-2 : Class, Methods &amp; Objects in Java" />
     <MESSAGE value="Chapter-4 : part-3 : Constructors" />
     <MESSAGE value="Chapter-4 : part-4 : Object Creation in Java" />
     <MESSAGE value="Chapter-4 : part-5 : Inheritance - Relationship(IS-A) in Java" />
@@ -593,6 +624,7 @@
     <MESSAGE value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes" />
     <MESSAGE value="Chapter-7 : Part-2 : 7.2 Checked &amp; Unchecked Exception in Java, Throw keyword" />
     <MESSAGE value="Chapter-7 : pdf files attached for part 1,2,3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-7 : pdf files attached for part 1,2,3" />
+    <MESSAGE value="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java" />
   </component>
 </project>
