@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-8 : Part-1 : 8.1 String Introduction in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/2. StringC_Constructorc_Methods.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_2_StringC_Constructorc_Methods/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_2_StringC_Constructorc_Methods/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_2_StringC_Constructorc_Methods/Test3.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/3. String_Buffer_Builder_Tokenizer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/DuplicateCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/MaxOccurringCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/MinOccurringCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/RemoveCharacterFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/RemoveDuplicatesFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringTokenizerTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,69 +63,79 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AlphabetPattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalManin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiCatchBlock1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedForLoop2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPattern8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintFactorial2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Temp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TicTacToeGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TicTacToeGame2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TicTacToeGame3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatchFinally5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatchFinally7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Voting.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_StarPattern8.executor&quot;: &quot;Run&quot;,
-    &quot;Application._11_StarPattern9.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1_Fibonacci_Series.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1_NestedForLoop1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2_Palindrome_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3_Factorial_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3_StarPattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_Prime_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_StarPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application._5_Armstrong_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._5_StarPattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application._6_StarPattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application._7_StarPattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application._8_StarPattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application._9_StarPattern7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tenp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_8_Strings&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AlphabetPattern1.executor": "Run",
+    "Application.AnimalManin.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DuplicateCharacters.executor": "Run",
+    "Application.MinOccurringCharacter.executor": "Run",
+    "Application.MultiCatchBlock1.executor": "Run",
+    "Application.NestedForLoop2.executor": "Run",
+    "Application.NumberPattern1.executor": "Run",
+    "Application.NumberPattern2.executor": "Run",
+    "Application.NumberPattern3.executor": "Run",
+    "Application.NumberPattern4.executor": "Run",
+    "Application.NumberPattern5.executor": "Run",
+    "Application.NumberPattern6.executor": "Run",
+    "Application.NumberPattern7.executor": "Run",
+    "Application.NumberPattern8.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.PrintFactorial2.executor": "Run",
+    "Application.RemoveCharacterFromString.executor": "Run",
+    "Application.RemoveDuplicatesFromString.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.StringDemo.executor": "Run",
+    "Application.StringDemo2.executor": "Run",
+    "Application.StringTokenizerTest1.executor": "Run",
+    "Application.Temp.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test4.executor": "Run",
+    "Application.TicTacToeGame.executor": "Run",
+    "Application.TicTacToeGame2.executor": "Run",
+    "Application.TicTacToeGame3.executor": "Run",
+    "Application.TryCatch1.executor": "Run",
+    "Application.TryCatch10.executor": "Run",
+    "Application.TryCatch11.executor": "Run",
+    "Application.TryCatch2.executor": "Run",
+    "Application.TryCatch3.executor": "Run",
+    "Application.TryCatch4.executor": "Run",
+    "Application.TryCatch5.executor": "Run",
+    "Application.TryCatch6.executor": "Run",
+    "Application.TryCatch7.executor": "Run",
+    "Application.TryCatch8.executor": "Run",
+    "Application.TryCatchFinally5.executor": "Run",
+    "Application.TryCatchFinally7.executor": "Run",
+    "Application.Voting.executor": "Run",
+    "Application.WordCount.executor": "Run",
+    "Application._10_StarPattern8.executor": "Run",
+    "Application._11_StarPattern9.executor": "Run",
+    "Application._1_Fibonacci_Series.executor": "Run",
+    "Application._1_NestedForLoop1.executor": "Run",
+    "Application._2_Palindrome_Number.executor": "Run",
+    "Application._3_Factorial_Number.executor": "Run",
+    "Application._3_StarPattern1.executor": "Run",
+    "Application._4_Prime_Numbers.executor": "Run",
+    "Application._4_StarPattern2.executor": "Run",
+    "Application._5_Armstrong_Number.executor": "Run",
+    "Application._5_StarPattern3.executor": "Run",
+    "Application._6_StarPattern4.executor": "Run",
+    "Application._7_StarPattern5.executor": "Run",
+    "Application._8_StarPattern6.executor": "Run",
+    "Application._9_StarPattern7.executor": "Run",
+    "Application.tenp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_8_Strings",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_8_Strings" />
@@ -177,14 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00004" summary="3. java software install">
-      <option name="closed" value="true" />
-      <created>1731806303809</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1731806303809</updated>
     </task>
     <task id="LOCAL-00005" summary="4. java first program">
       <option name="closed" value="true" />
@@ -570,7 +580,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742792674695</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java">
+      <option name="closed" value="true" />
+      <created>1743035335187</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1743035335187</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,7 +604,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-4 : part-6 : HAS-A Relationship (Association) - Composition &amp; Aggregation in Java" />
     <MESSAGE value="Chapter-4 : part-7 : Dependency Injection &amp; USES-A Relation in Java" />
     <MESSAGE value="Chapter-4 : part-8 : Polymorphism (Method Overloading) in Java" />
     <MESSAGE value="Chapter-4 : part-9 : Polymorphism (Method Overriding) in Java" />
@@ -611,6 +628,7 @@
     <MESSAGE value="Chapter-7 : Part-4 : 7.4 try-catch block combinations, finally block in Java" />
     <MESSAGE value="Chapter-7 : Part-5 : 7.5 try-catch-finally combinations, User define exception in Java" />
     <MESSAGE value="Chapter-8 : Part-1 : 8.1 String Introduction in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-8 : Part-1 : 8.1 String Introduction in Java" />
+    <MESSAGE value="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java" />
   </component>
 </project>
