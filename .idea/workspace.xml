@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/3. String_Buffer_Builder_Tokenizer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/DuplicateCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/MaxOccurringCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/MinOccurringCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/RemoveCharacterFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/RemoveDuplicatesFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringPrograms/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_3_String_Buffer_Builder_Tokenizer/StringTokenizerTest1.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-8 : Part-3 : 8.3 StringBuffer, StringBuilder &amp; StringTokenizer class methods in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/4. String_Programs_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_4_String_Programs_1/AllDuplicateChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_4_String_Programs_1/CheckForPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_4_String_Programs_1/CountStringWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_4_String_Programs_1/MaxOccurringChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_4_String_Programs_1/MinOccurringChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_4_String_Programs_1/RevAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +62,15 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AlphabetPattern1.executor": "Run",
+    "Application.AnagramCheck.executor": "Run",
     "Application.AnimalManin.executor": "Run",
+    "Application.CheckForPalindrome.executor": "Run",
+    "Application.CountStringWords.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DuplicateCharacters.executor": "Run",
+    "Application.FirstRepeatingCharacter.executor": "Run",
+    "Application.MaxOccurringChar.executor": "Run",
+    "Application.MinOccuringChar.executor": "Run",
     "Application.MinOccurringCharacter.executor": "Run",
     "Application.MultiCatchBlock1.executor": "Run",
     "Application.NestedForLoop2.executor": "Run",
@@ -85,6 +86,7 @@
     "Application.PrintFactorial2.executor": "Run",
     "Application.RemoveCharacterFromString.executor": "Run",
     "Application.RemoveDuplicatesFromString.executor": "Run",
+    "Application.RevAString.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.StringDemo.executor": "Run",
     "Application.StringDemo2.executor": "Run",
@@ -195,14 +197,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00005" summary="4. java first program">
-      <option name="closed" value="true" />
-      <created>1731809925199</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1731809925199</updated>
     </task>
     <task id="LOCAL-00006" summary="4. java first program structure added">
       <option name="closed" value="true" />
@@ -588,7 +582,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743035335187</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Chapter-8 : Part-3 : 8.3 StringBuffer, StringBuilder &amp; StringTokenizer class methods in Java">
+      <option name="closed" value="true" />
+      <created>1743211361163</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1743211361163</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,7 +606,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-4 : part-7 : Dependency Injection &amp; USES-A Relation in Java" />
     <MESSAGE value="Chapter-4 : part-8 : Polymorphism (Method Overloading) in Java" />
     <MESSAGE value="Chapter-4 : part-9 : Polymorphism (Method Overriding) in Java" />
     <MESSAGE value="Chapter-4 : part-10 : Data-Hiding and Abstraction in Java" />
@@ -629,6 +630,7 @@
     <MESSAGE value="Chapter-7 : Part-5 : 7.5 try-catch-finally combinations, User define exception in Java" />
     <MESSAGE value="Chapter-8 : Part-1 : 8.1 String Introduction in Java" />
     <MESSAGE value="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java" />
+    <MESSAGE value="Chapter-8 : Part-3 : 8.3 StringBuffer, StringBuilder &amp; StringTokenizer class methods in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-8 : Part-3 : 8.3 StringBuffer, StringBuilder &amp; StringTokenizer class methods in Java" />
   </component>
 </project>
