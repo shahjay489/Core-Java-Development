@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-8 : pdf files added">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/5. String_Programs_2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_5_String_Programs_2/CheckAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_5_String_Programs_2/FirstRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_5_String_Programs_2/RemAllDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_8_Strings/_5_String_Programs_2/RemCharFromStr.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-8 : Part-5 : 8.5 String Programs - 2 in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/1. Multithreading_Intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization/1. multithreading_introduction_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,17 +133,17 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_8_Strings",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_8_Strings" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_9_Multithreading_Synchronization" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_8_Strings" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_7_Exception_Handling" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_6_TikTokGame\version3" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_5_GUI_AWT_SWING" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_2_Terms_Fundamentals" />
@@ -199,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00008" summary="5. java main method">
-      <option name="closed" value="true" />
-      <created>1732019431558</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1732019431558</updated>
     </task>
     <task id="LOCAL-00009" summary="6. Compilation and Execution">
       <option name="closed" value="true" />
@@ -592,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743220684655</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Chapter-8 : Part-5 : 8.5 String Programs - 2 in Java">
+      <option name="closed" value="true" />
+      <created>1743881084929</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1743881084929</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -608,7 +605,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-4 : part-10 : Data-Hiding and Abstraction in Java" />
     <MESSAGE value="Chapter-4 : part-11 : Interfaces in Java" />
     <MESSAGE value="Chapter-4 : part-12 : Encapsulation in Java" />
     <MESSAGE value="Chapter-4 : part-13 : “this” keyword in Java" />
@@ -633,6 +629,7 @@
     <MESSAGE value="Chapter-8 : Part-3 : 8.3 StringBuffer, StringBuilder &amp; StringTokenizer class methods in Java" />
     <MESSAGE value="Chapter-8 : Part-4 : 8.4 String Programs - 1 in Java" />
     <MESSAGE value="Chapter-8 : pdf files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-8 : pdf files added" />
+    <MESSAGE value="Chapter-8 : Part-5 : 8.5 String Programs - 2 in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-8 : Part-5 : 8.5 String Programs - 2 in Java" />
   </component>
 </project>
