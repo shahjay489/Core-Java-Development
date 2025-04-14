@@ -4,25 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-1 : 9.1 Multithreading Introduction in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/2. ThreadCreation-1.md" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-1 : 9.2 Thread Creation - 1 : Multithreading Case Studies - Creating Threads (Part 1) in Java - By using &quot;Thread&quot; class">
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/3. ThreadCreation-2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingCases/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingCases/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingCases/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingCases/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingCases/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingDemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingDemo/Vlc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_2_ThreadCreation_1/MultithreadingDemo/Vlc2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_3_ThreadCreation_2/MultithreadingDemo2/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_3_ThreadCreation_2/MultithreadingDemo2/Test2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_3_ThreadCreation_2/ThreadCases/Test1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_3_ThreadCreation_2/ThreadCases/Test2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_3_ThreadCreation_2/ThreadCases/Test4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_3_ThreadCreation_2/images/ThreadLifeCycle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization/2. how_to_create_threads_in_java.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization/3. how_to_create_threads_and_thread_life_cycle_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -218,14 +207,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Chapter-2 : part -1 : data types">
-      <option name="closed" value="true" />
-      <created>1732158634464</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1732158634464</updated>
     </task>
     <task id="LOCAL-00011" summary="Chapter-2 : part-2 : type casting">
       <option name="closed" value="true" />
@@ -611,7 +592,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743982480152</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Chapter-9 : Part-1 : 9.2 Thread Creation - 1 : Multithreading Case Studies - Creating Threads (Part 1) in Java - By using &quot;Thread&quot; class">
+      <option name="closed" value="true" />
+      <created>1744511995688</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1744511995689</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -627,7 +616,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-4 : part-12 : Encapsulation in Java" />
     <MESSAGE value="Chapter-4 : part-13 : “this” keyword in Java" />
     <MESSAGE value="Chapter-4 : part-14 : “super” and “final” keywords in Java" />
     <MESSAGE value="Chapter-4 : part-15 : Static variables and static blocks in Java" />
@@ -652,6 +640,7 @@
     <MESSAGE value="Chapter-8 : pdf files added" />
     <MESSAGE value="Chapter-8 : Part-5 : 8.5 String Programs - 2 in Java" />
     <MESSAGE value="Chapter-9 : Part-1 : 9.1 Multithreading Introduction in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-1 : 9.1 Multithreading Introduction in Java" />
+    <MESSAGE value="Chapter-9 : Part-1 : 9.2 Thread Creation - 1 : Multithreading Case Studies - Creating Threads (Part 1) in Java - By using &quot;Thread&quot; class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-1 : 9.2 Thread Creation - 1 : Multithreading Case Studies - Creating Threads (Part 1) in Java - By using &quot;Thread&quot; class" />
   </component>
 </project>
