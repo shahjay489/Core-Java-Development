@@ -1,4 +1,4 @@
-package com.jayshah.chapter_9_Multithreading_Synchronization._4_ThreadClassMethods.MultithreadingDemo3;
+package com.jayshah.chapter_9_Multithreading_Synchronization._4_ThreadClassMethods_1.MultithreadingDemo3;
 
 class MyThread5 extends Thread {
     public void run() {
