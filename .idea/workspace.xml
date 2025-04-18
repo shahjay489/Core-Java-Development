@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-4 : 9.4 Thread class methods (Part 1) in Java" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-4 : 9.4 - change the folder name">
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/4. Thread_Class_Methods_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/4. Thread_Class_Methods_1.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,14 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Chapter-2 : part-4 : variables in Java">
-      <option name="closed" value="true" />
-      <created>1732323063636</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1732323063636</updated>
     </task>
     <task id="LOCAL-00014" summary="Chapter-2 : part-5 : Literals &amp; Operators">
       <option name="closed" value="true" />
@@ -591,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744994098985</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Chapter-9 : Part-4 : 9.4 - change the folder name">
+      <option name="closed" value="true" />
+      <created>1744994368320</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1744994368320</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -607,7 +609,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-4 : part-15 : Static variables and static blocks in Java" />
     <MESSAGE value="Chapter-4 : part-16 : ## Nested Classes in Java" />
     <MESSAGE value="Chapter-4 : part-17 : “Static Methods” &amp; “Static Nested Class” in Java" />
     <MESSAGE value="Chapter-4 : part-18 : Pre-Defined Packages in Java" />
@@ -632,6 +633,7 @@
     <MESSAGE value="Chapter-9 : Part-1 : 9.2 Thread Creation - 1 : Multithreading Case Studies - Creating Threads (Part 1) in Java - By using &quot;Thread&quot; class" />
     <MESSAGE value="Chapter-9 : Part-3 : 9.3 Thread Creation - 2 : Multithreading Case Studies - Creating Threads (Part 2) in Java - By using &quot;Runnable&quot; class" />
     <MESSAGE value="Chapter-9 : Part-4 : 9.4 Thread class methods (Part 1) in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-4 : 9.4 Thread class methods (Part 1) in Java" />
+    <MESSAGE value="Chapter-9 : Part-4 : 9.4 - change the folder name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-4 : 9.4 - change the folder name" />
   </component>
 </project>
