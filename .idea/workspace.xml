@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-4 : 9.4 - change the folder name">
-      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/4. Thread_Class_Methods_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/4. Thread_Class_Methods_1.md" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-4 : 9.4 - set the folder name in programs path in .md file">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/5. Thread_Class_Methods_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_5_ThreadClassMethods_2/MultithrreadingDemo4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_5_ThreadClassMethods_2/MultithrreadingDemo4/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_5_ThreadClassMethods_2/MultithrreadingDemo4/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_5_ThreadClassMethods_2/MultithrreadingDemo4/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization/5. thread_class_methods_in_java.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,22 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Chapter-2 : part-5 : Literals &amp; Operators">
-      <option name="closed" value="true" />
-      <created>1732336125595</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1732336125595</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Chapter-2 : part-6 : Keywords &amp; Identifiers in Java">
-      <option name="closed" value="true" />
-      <created>1732369766001</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1732369766001</updated>
     </task>
     <task id="LOCAL-00016" summary="Chapter-3 : part-1 : Selection/ Conditional Statements">
       <option name="closed" value="true" />
@@ -593,7 +583,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744994368320</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Chapter-9 : Part-4 : 9.4 - set the folder name in images path in .md file">
+      <option name="closed" value="true" />
+      <created>1744994466250</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1744994466250</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Chapter-9 : Part-4 : 9.4 - set the folder name in programs path in .md file">
+      <option name="closed" value="true" />
+      <created>1745002105644</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1745002105644</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -609,8 +615,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-4 : part-16 : ## Nested Classes in Java" />
-    <MESSAGE value="Chapter-4 : part-17 : “Static Methods” &amp; “Static Nested Class” in Java" />
     <MESSAGE value="Chapter-4 : part-18 : Pre-Defined Packages in Java" />
     <MESSAGE value="Chapter-4 : part-19 : User-Defined Packages in Java" />
     <MESSAGE value="Chapter-4 : part-20 : Jar File &amp; MANIFEST.MF File in Java" />
@@ -634,6 +638,8 @@
     <MESSAGE value="Chapter-9 : Part-3 : 9.3 Thread Creation - 2 : Multithreading Case Studies - Creating Threads (Part 2) in Java - By using &quot;Runnable&quot; class" />
     <MESSAGE value="Chapter-9 : Part-4 : 9.4 Thread class methods (Part 1) in Java" />
     <MESSAGE value="Chapter-9 : Part-4 : 9.4 - change the folder name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-4 : 9.4 - change the folder name" />
+    <MESSAGE value="Chapter-9 : Part-4 : 9.4 - set the folder name in images path in .md file" />
+    <MESSAGE value="Chapter-9 : Part-4 : 9.4 - set the folder name in programs path in .md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-4 : 9.4 - set the folder name in programs path in .md file" />
   </component>
 </project>
