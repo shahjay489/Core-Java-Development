@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-6 : 9.6 Thread class methods (Part 3) in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/7. Synchronization_1.md" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1) : images adjust">
       <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/8. Synchronization_2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_7_Synchronization_1/MultithreadingDemo6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_7_Synchronization_1/MultithreadingDemo6/TrainReservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_7_Synchronization_1/MultithreadingDemo6/TrainReservation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_7_Synchronization_1/images/InternalWorking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_7_Synchronization_1/images/describeProgram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_7_Synchronization_1/images/programThread.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization/7. Synchronization_in_java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/MultithreadingDemo7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/MultithreadingDemo7/TrainBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/MultithreadingDemo7/TrainEarning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/images/ProgramExplain1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/images/ProgramExplain2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/images/ProgramExplain3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/images/ProgramExplain4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/images/ProgramExplain5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/images/ProgramExplain6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/images/ProgramExplain7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization/8. Synchronization_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_7_Synchronization_1/MultithreadingDemo6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_7_Synchronization_1/MultithreadingDemo6/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +113,8 @@
     "Application.TicTacToeGame.executor": "Run",
     "Application.TicTacToeGame2.executor": "Run",
     "Application.TicTacToeGame3.executor": "Run",
+    "Application.TrainBooking.executor": "Run",
+    "Application.TrainEarning.executor": "Run",
     "Application.TrainReservation.executor": "Run",
     "Application.TrainReservation2.executor": "Run",
     "Application.TryCatch1.executor": "Run",
@@ -148,24 +154,24 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_9_Multithreading_Synchronization/_8_Synchronization_2/images",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_8_Synchronization_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_9_Multithreading_Synchronization" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_6_ThreadClassMethods_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_5_ThreadClassMethods_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_8_Strings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_8_Synchronization_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_7_Synchronization_1\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_6_ThreadClassMethods_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_5_ThreadClassMethods_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_4_ThreadClassMethods\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_4_ThreadClassMethods\Thread_class_methods_2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_3_Control_Statements._6_Star_Pattern_Programs" />
@@ -213,22 +219,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Chapter-3 : part-4 : Jump Statements">
-      <option name="closed" value="true" />
-      <created>1732669470174</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1732669470174</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Chapter-3 : part-5 : Control Statements Programs">
-      <option name="closed" value="true" />
-      <created>1732679228809</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1732679228809</updated>
     </task>
     <task id="LOCAL-00021" summary="Chapter-3 : part-6 : Star Pattern Programs">
       <option name="closed" value="true" />
@@ -606,7 +596,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745706371070</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1)">
+      <option name="closed" value="true" />
+      <created>1745782483891</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1745782483891</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1) : images adjust">
+      <option name="closed" value="true" />
+      <created>1745782648355</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1745782648355</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -622,8 +628,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT" />
-    <MESSAGE value="Chapter-6 : TicTac Game" />
     <MESSAGE value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction" />
     <MESSAGE value="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes" />
     <MESSAGE value="Chapter-7 : Part-2 : 7.2 Checked &amp; Unchecked Exception in Java, Throw keyword" />
@@ -647,6 +651,8 @@
     <MESSAGE value="Chapter-9 : Part-5 : 9.5 Thread class methods (Part 2) in Java" />
     <MESSAGE value="Chapter-9 : Part-5 : 9.5 Thread class methods (Part 2) in Java - join() method and differences added" />
     <MESSAGE value="Chapter-9 : Part-6 : 9.6 Thread class methods (Part 3) in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-6 : 9.6 Thread class methods (Part 3) in Java" />
+    <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1)" />
+    <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1) : images adjust" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1) : images adjust" />
   </component>
 </project>

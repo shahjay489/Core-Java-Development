@@ -17,3 +17,14 @@ public class Test {
         mt2.start();
     }
 }
+
+
+/*
+    public class Test extends Object {
+        // .....
+    }
+
+    click on Object -
+        - you can see all the methods
+
+ */
