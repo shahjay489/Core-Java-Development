@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-9 : 9.9 Synchronization in Java (Part 3) - adjust image">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/10. Thread_Group_Pool.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/MultiThreadinDemo9/threadgroupdemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/MultiThreadinDemo9/threadgroupdemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/MultiThreadinDemo9/threadgroupdemo/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/MultiThreadinDemo9/threadgroupdemo/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/MultiThreadinDemo9/threadpooldemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/MultiThreadinDemo9/threadpooldemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/images/ProgramExplain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/images/ThreadGroup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/images/ThreadPoolWorking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/images/ThreadPriorityThreadGroupsSubGroups.png" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-10 : 9.10 ThreadGroup class &amp; Thread-Pool Framework">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/11. Callable_Future_intf_ThreadLocal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/callabledemo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/callabledemo/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/callabledemo/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/callabledemo/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/images/ThreadLocalWorking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization/11. Callable_ThreadLocal_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +149,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_9_Multithreading_Synchronization/_10_Thread_Group_Pool/images/ThreadPriority.png",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -166,11 +162,11 @@
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_11_Callable_Future_intf_ThreadLocal\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_10_Thread_Group_Pool\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_9_Sychronization_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_8_Synchronization_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_7_Synchronization_1\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_6_ThreadClassMethods_3\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_3_Control_Statements._6_Star_Pattern_Programs" />
@@ -218,14 +214,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Chapter-4 : part-2 : Class, Methods &amp; Objects in Java">
-      <option name="closed" value="true" />
-      <created>1732999951167</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1732999951167</updated>
     </task>
     <task id="LOCAL-00025" summary="Chapter-4 : part-3 : Constructors">
       <option name="closed" value="true" />
@@ -611,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746289892953</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Chapter-9 : Part-10 : 9.10 ThreadGroup class &amp; Thread-Pool Framework">
+      <option name="closed" value="true" />
+      <created>1746302535466</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1746302535466</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -627,7 +623,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-7 : pdf files attached for part 1,2,3" />
     <MESSAGE value="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java" />
     <MESSAGE value="Chapter-7 : Part-4 : 7.4 try-catch block combinations, finally block in Java" />
     <MESSAGE value="Chapter-7 : Part-5 : 7.5 try-catch-finally combinations, User define exception in Java" />
@@ -652,6 +647,7 @@
     <MESSAGE value="Chapter-9 : Part-8 : 9.8 Synchronization in Java (Part 2)" />
     <MESSAGE value="Chapter-9 : Part-9 : 9.9 Synchronization in Java (Part 3)" />
     <MESSAGE value="Chapter-9 : Part-9 : 9.9 Synchronization in Java (Part 3) - adjust image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-9 : 9.9 Synchronization in Java (Part 3) - adjust image" />
+    <MESSAGE value="Chapter-9 : Part-10 : 9.10 ThreadGroup class &amp; Thread-Pool Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-10 : 9.10 ThreadGroup class &amp; Thread-Pool Framework" />
   </component>
 </project>
