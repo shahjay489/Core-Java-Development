@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-10 : 9.10 ThreadGroup class &amp; Thread-Pool Framework">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/11. Callable_Future_intf_ThreadLocal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/callabledemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/callabledemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/callabledemo/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/callabledemo/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_9_Multithreading_Synchronization/_11_Callable_Future_intf_ThreadLocal/images/ThreadLocalWorking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization/11. Callable_ThreadLocal_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-9 : Part-11 : 9.11 Callable_Future &amp; ThreadLocal class">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/1. Java_IO_Intro_Byte_Stream.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/JavaIoDemo/CopyFIle/CopyFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/JavaIoDemo/CopyFIle/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/JavaIoDemo/inputstreamdemo/ReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/JavaIoDemo/inputstreamdemo/ReadData1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/JavaIoDemo/inputstreamdemo/ReadData2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/JavaIoDemo/outputstreamdemo/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/images/HierarchyInputStream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/images/HierarchyOutputStream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/images/IOProgramFlow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/images/JavaStreams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_1_Java_IO_Intro_Byte_Stream/images/Task.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_10_Java_InputOutput_Serialization/1. byte_stream_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +73,7 @@
     "Application.CheckAnagram.executor": "Run",
     "Application.CheckForPalindrome.executor": "Run",
     "Application.ClgAdmin.executor": "Run",
+    "Application.CopyFileDemo.executor": "Run",
     "Application.CountStringWords.executor": "Run",
     "Application.DeadlockDemo.executor": "Run",
     "Application.Demo.executor": "Run",
@@ -88,6 +95,8 @@
     "Application.NumberPattern8.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
     "Application.PrintFactorial2.executor": "Run",
+    "Application.ReadData.executor": "Run",
+    "Application.ReadData2.executor": "Run",
     "Application.RemAllDuplicates.executor": "Run",
     "Application.RemCharFromStr.executor": "Run",
     "Application.RemoveCharacterFromString.executor": "Run",
@@ -128,6 +137,7 @@
     "Application.Vlc2.executor": "Run",
     "Application.Voting.executor": "Run",
     "Application.WordCount.executor": "Run",
+    "Application.WriteData.executor": "Run",
     "Application._10_StarPattern8.executor": "Run",
     "Application._11_StarPattern9.executor": "Run",
     "Application._1_Fibonacci_Series.executor": "Run",
@@ -149,24 +159,24 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_9_Multithreading_Synchronization",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_10_Java_InputOutput_Serialization",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_10_Java_InputOutput_Serialization" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_9_Multithreading_Synchronization" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_8_Synchronization_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_6_ThreadClassMethods_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_5_ThreadClassMethods_2\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_1_Java_IO_Intro_Byte_Stream\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_11_Callable_Future_intf_ThreadLocal\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_10_Thread_Group_Pool\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_9_Sychronization_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_8_Synchronization_2\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_7_Synchronization_1\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_3_Control_Statements._6_Star_Pattern_Programs" />
@@ -214,14 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Chapter-4 : part-3 : Constructors">
-      <option name="closed" value="true" />
-      <created>1733003846924</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1733003846924</updated>
     </task>
     <task id="LOCAL-00026" summary="Chapter-4 : part-4 : Object Creation in Java">
       <option name="closed" value="true" />
@@ -607,7 +609,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746302535466</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Chapter-9 : Part-11 : 9.11 Callable_Future &amp; ThreadLocal class">
+      <option name="closed" value="true" />
+      <created>1746306215350</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1746306215350</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -623,7 +633,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-7 : Part-3 : 7.3 “throws” keyword &amp; “try-catch” block in Java" />
     <MESSAGE value="Chapter-7 : Part-4 : 7.4 try-catch block combinations, finally block in Java" />
     <MESSAGE value="Chapter-7 : Part-5 : 7.5 try-catch-finally combinations, User define exception in Java" />
     <MESSAGE value="Chapter-8 : Part-1 : 8.1 String Introduction in Java" />
@@ -648,6 +657,7 @@
     <MESSAGE value="Chapter-9 : Part-9 : 9.9 Synchronization in Java (Part 3)" />
     <MESSAGE value="Chapter-9 : Part-9 : 9.9 Synchronization in Java (Part 3) - adjust image" />
     <MESSAGE value="Chapter-9 : Part-10 : 9.10 ThreadGroup class &amp; Thread-Pool Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-10 : 9.10 ThreadGroup class &amp; Thread-Pool Framework" />
+    <MESSAGE value="Chapter-9 : Part-11 : 9.11 Callable_Future &amp; ThreadLocal class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-9 : Part-11 : 9.11 Callable_Future &amp; ThreadLocal class" />
   </component>
 </project>
