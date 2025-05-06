@@ -4,25 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-10 : Part-2 : 10.2 Character Stream in Java &amp; Dynamic Input Approaches">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/3. Byte_Stream_Classes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images/BufferedInputStreamDia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images/BufferedInputStreamDia1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images/ByteArrayInputStreamDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images/ByteArrayOutputStream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images/FileInputStream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images/HierarchyInputStream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images/HierarchyOutputStream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images/PipedInputOutputStream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/inputoutputstreamsdemo/BufferedInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/inputoutputstreamsdemo/BufferedOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/inputoutputstreamsdemo/ByteArrayInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/inputoutputstreamsdemo/ByteArrayOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/inputoutputstreamsdemo/DataInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/inputoutputstreamsdemo/InputOutputStreamsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/inputoutputstreamsdemo/PipedInputOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/inputoutputstreamsdemo/PrintStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_10_Java_InputOutput_Serialization/3. InputStream_and_OutputStream_classes_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-10 : Part-3 : 10.3 Byte Stream : InputStream &amp; OutputStream classes in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/4. Character_Stream_Classes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/BufferedReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/BufferedWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/CharArrayReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/CharArrayWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/CharStreamClassesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/FileReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/FileWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/InputStreamReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/OutputStreamWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/StringReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_4_Character_Stream_Classes/CharStreamClassesDemo/StringWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_10_Java_InputOutput_Serialization/4. Charcter_Stream_classes_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,14 +161,14 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_3_Byte_Stream_Classes/images",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_10_Java_InputOutput_Serialization",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_3_Byte_Stream_Classes\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_10_Java_InputOutput_Serialization" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_3_Byte_Stream_Classes\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_9_Multithreading_Synchronization" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_8_Synchronization_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_6_ThreadClassMethods_3\images" />
@@ -231,14 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Chapter-4 : part-6 : HAS-A Relationship (Association) - Composition &amp; Aggregation in Java">
-      <option name="closed" value="true" />
-      <created>1733241848502</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1733241848502</updated>
     </task>
     <task id="LOCAL-00029" summary="Chapter-4 : part-7 : Dependency Injection &amp; USES-A Relation in Java">
       <option name="closed" value="true" />
@@ -624,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746389919901</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Chapter-10 : Part-3 : 10.3 Byte Stream : InputStream &amp; OutputStream classes in Java">
+      <option name="closed" value="true" />
+      <created>1746395258834</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1746395258834</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -640,7 +635,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-8 : Part-1 : 8.1 String Introduction in Java" />
     <MESSAGE value="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java" />
     <MESSAGE value="Chapter-8 : Part-3 : 8.3 StringBuffer, StringBuilder &amp; StringTokenizer class methods in Java" />
     <MESSAGE value="Chapter-8 : Part-4 : 8.4 String Programs - 1 in Java" />
@@ -665,6 +659,7 @@
     <MESSAGE value="Chapter-9 : Part-11 : 9.11 Callable_Future &amp; ThreadLocal class" />
     <MESSAGE value="Chapter-10 : Part-1 : 10.1 Byte Stream in Java" />
     <MESSAGE value="Chapter-10 : Part-2 : 10.2 Character Stream in Java &amp; Dynamic Input Approaches" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-10 : Part-2 : 10.2 Character Stream in Java &amp; Dynamic Input Approaches" />
+    <MESSAGE value="Chapter-10 : Part-3 : 10.3 Byte Stream : InputStream &amp; OutputStream classes in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-10 : Part-3 : 10.3 Byte Stream : InputStream &amp; OutputStream classes in Java" />
   </component>
 </project>
