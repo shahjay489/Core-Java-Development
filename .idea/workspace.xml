@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-10 : Part-5 : 10.5 File Handling in Java - pdf file added">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/6. Serialization.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_6_Serialization/SerDerDemo/ExtDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_6_Serialization/SerDerDemo/SerDerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_6_Serialization/SerDerDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_6_Serialization/images/SerializableDataConversation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_6_Serialization/images/SerializationDese.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_10_Java_InputOutput_Serialization/_6_Serialization/images/SerializationNotes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_10_Java_InputOutput_Serialization/6. Serialization___Externalization_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-10 : Part-6 : 10.6 Serialization &amp; Externalization in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_11_NotePad_Editor_Project2/notepad_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_11_NotePad_Editor_Project2/part1/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_11_NotePad_Editor_Project2/part1/NotepadEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_11_NotePad_Editor_Project2/part2/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_11_NotePad_Editor_Project2/part3/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_11_NotePad_Editor_Project2/part3/NotepadEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_11_NotePad_Editor_Project2/project2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +80,8 @@
     "Application.MinOccurringCharacter.executor": "Run",
     "Application.MultiCatchBlock1.executor": "Run",
     "Application.NestedForLoop2.executor": "Run",
+    "Application.Notepad.executor": "Run",
+    "Application.NotepadEditor.executor": "Run",
     "Application.NumberPattern1.executor": "Run",
     "Application.NumberPattern2.executor": "Run",
     "Application.NumberPattern3.executor": "Run",
@@ -156,24 +157,24 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_10_Java_InputOutput_Serialization",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_11_NotePad_Editor_Project2",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_11_NotePad_Editor_Project2" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_10_Java_InputOutput_Serialization" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_3_Byte_Stream_Classes\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_9_Multithreading_Synchronization" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_8_Synchronization_2\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_9_Multithreading_Synchronization\_6_ThreadClassMethods_3\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_11_NotePad_Editor_Project2" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_6_Serialization\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_5_File_Handling\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_3_Byte_Stream_Classes\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_2_Character_Stream_Dynamic_Input_Appr\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_1_Java_IO_Intro_Byte_Stream\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_3_Control_Statements._6_Star_Pattern_Programs" />
@@ -221,14 +222,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Chapter-4 : part-10 : Data-Hiding and Abstraction in Java">
-      <option name="closed" value="true" />
-      <created>1733336972193</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1733336972193</updated>
     </task>
     <task id="LOCAL-00033" summary="Chapter-4 : part-11 : Interfaces in Java">
       <option name="closed" value="true" />
@@ -614,7 +607,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746500278744</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Chapter-10 : Part-6 : 10.6 Serialization &amp; Externalization in Java">
+      <option name="closed" value="true" />
+      <created>1746590532172</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1746590532172</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -630,7 +631,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-8 : pdf files added" />
     <MESSAGE value="Chapter-8 : Part-5 : 8.5 String Programs - 2 in Java" />
     <MESSAGE value="Chapter-9 : Part-1 : 9.1 Multithreading Introduction in Java" />
     <MESSAGE value="Chapter-9 : Part-1 : 9.2 Thread Creation - 1 : Multithreading Case Studies - Creating Threads (Part 1) in Java - By using &quot;Thread&quot; class" />
@@ -655,6 +655,7 @@
     <MESSAGE value="Chapter-10 : Part-4 : 10.4 Character Stream Classes : Reader &amp; Writer classes explanation in Java" />
     <MESSAGE value="Chapter-10 : Part-5 : 10.5 File Handling in Java" />
     <MESSAGE value="Chapter-10 : Part-5 : 10.5 File Handling in Java - pdf file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-10 : Part-5 : 10.5 File Handling in Java - pdf file added" />
+    <MESSAGE value="Chapter-10 : Part-6 : 10.6 Serialization &amp; Externalization in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-10 : Part-6 : 10.6 Serialization &amp; Externalization in Java" />
   </component>
 </project>
