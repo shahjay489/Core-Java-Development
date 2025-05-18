@@ -4,34 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-11 : Part-1, Part-2, Part-3 : Notepad Project">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/1. Networking_Intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/2. Socket_Programming.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/3. RMI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/ChatServer/test1/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/ChatServer/test1/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/ChatServer/test2/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/ChatServer/test2/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/ChatServer/test3/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/SocketProgrammingDemo/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/SocketProgrammingDemo/spclient/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/SocketProgrammingDemo/spserver/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_2_Socket_Programming/images/SocketProgrammingDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/images/RMI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/images/RMIRegistry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/images/StubSkeleton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemo/Client/AddInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemo/Client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemo/Server/AddImplClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemo/Server/AddInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemo/Server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemoo/AddImplClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemoo/AddInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemoo/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/rmidemoo/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/Chapter_12_Socket_Programming_RMI/1. Networking_Introduction_in_java.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/Chapter_12_Socket_Programming_RMI/2. Socket_Programming_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-12 : Socket_Programming_RMI Part:1-2-3">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/ChatApplication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part1/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part1/client/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part1/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part1/server/ServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/ChatAppServer/chatappserver/ChatAppServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/ChatAppServer/chatappserver/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/ChatAppServer/sound/chat_sound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/ChatApplication/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/ChatApplication/client/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/ChatApplication/serverr/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/ChatApplication/serverr/ServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/ChatApplication/sound/chat_sound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/jlayer-1.0.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaDevelopment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJavaDevelopment.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +75,7 @@
     "Application.CheckAnagram.executor": "Run",
     "Application.CheckForPalindrome.executor": "Run",
     "Application.ClgAdmin.executor": "Run",
+    "Application.ClientMain.executor": "Run",
     "Application.ConsoleDemo.executor": "Run",
     "Application.CopyFileDemo.executor": "Run",
     "Application.CountStringWords.executor": "Run",
@@ -123,6 +113,7 @@
     "Application.RevAString.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.Server.executor": "Run",
+    "Application.ServerMain.executor": "Run",
     "Application.StringDemo.executor": "Run",
     "Application.StringDemo2.executor": "Run",
     "Application.StringTokenizerTest1.executor": "Run",
@@ -179,17 +170,20 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/Chapter_12_Socket_Programming_RMI/_3_RMI/images/rmidemo",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/Chapter_13_Chat_Application_Project3/part2/jlayer-1.0.1.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_12_Socket_Programming_RMI\_3_RMI\images\rmidemo" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_13_Chat_Application_Project3\part2" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_12_Socket_Programming_RMI" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_12_Socket_Programming_RMI\_3_RMI\images\rmidemo" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_12_Socket_Programming_RMI\_2_Socket_Programming\ChatServer" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_11_NotePad_Editor_Project2" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_10_Java_InputOutput_Serialization" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_12_Socket_Programming_RMI\_3_RMI\images" />
@@ -244,14 +238,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Chapter-4 : part-12 : Encapsulation in Java">
-      <option name="closed" value="true" />
-      <created>1733408905588</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1733408905588</updated>
     </task>
     <task id="LOCAL-00035" summary="Chapter-4 : part-13 : “this” keyword in Java">
       <option name="closed" value="true" />
@@ -637,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746757056256</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Chapter-12 : Socket_Programming_RMI Part:1-2-3">
+      <option name="closed" value="true" />
+      <created>1747496822789</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1747496822790</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -653,7 +647,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-9 : Part-1 : 9.1 Multithreading Introduction in Java" />
     <MESSAGE value="Chapter-9 : Part-1 : 9.2 Thread Creation - 1 : Multithreading Case Studies - Creating Threads (Part 1) in Java - By using &quot;Thread&quot; class" />
     <MESSAGE value="Chapter-9 : Part-3 : 9.3 Thread Creation - 2 : Multithreading Case Studies - Creating Threads (Part 2) in Java - By using &quot;Runnable&quot; class" />
     <MESSAGE value="Chapter-9 : Part-4 : 9.4 Thread class methods (Part 1) in Java" />
@@ -678,6 +671,7 @@
     <MESSAGE value="Chapter-10 : Part-5 : 10.5 File Handling in Java - pdf file added" />
     <MESSAGE value="Chapter-10 : Part-6 : 10.6 Serialization &amp; Externalization in Java" />
     <MESSAGE value="Chapter-11 : Part-1, Part-2, Part-3 : Notepad Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-11 : Part-1, Part-2, Part-3 : Notepad Project" />
+    <MESSAGE value="Chapter-12 : Socket_Programming_RMI Part:1-2-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-12 : Socket_Programming_RMI Part:1-2-3" />
   </component>
 </project>
