@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-13 : Chat Application using Socket Programming">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/1. Data_Structure_Array_Intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_1/demo/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_1/demo/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_1/demo2/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_1/demo2/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_1/images/DS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/Chapter_14_Arrays/1. Data_structure___Arrays_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-1 : Data Structure &amp; Arrays (Intro) in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/2. Array_1D_Single_Dimensional.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_2/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_2/images/1dArray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/Chapter_14_Arrays/2. Single_Dimensional_Array_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +160,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/Chapter_14_Arrays/_1/demo2",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/Chapter_14_Arrays",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -172,18 +169,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_1\demo2" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_14_Arrays" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_1\demo2" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_13_Chat_Application_Project3\part2" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_12_Socket_Programming_RMI" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_1\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_12_Socket_Programming_RMI\_3_RMI\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_12_Socket_Programming_RMI\_2_Socket_Programming\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_11_NotePad_Editor_Project2" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_10_Java_InputOutput_Serialization\_6_Serialization\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_3_Control_Statements._6_Star_Pattern_Programs" />
@@ -231,14 +228,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Chapter-4 : part-14 : “super” and “final” keywords in Java">
-      <option name="closed" value="true" />
-      <created>1733417644011</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1733417644011</updated>
     </task>
     <task id="LOCAL-00037" summary="Chapter-4 : part-15 : Static variables and static blocks in Java">
       <option name="closed" value="true" />
@@ -624,7 +613,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747589281526</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Chapter-14 : Part-1 : Data Structure &amp; Arrays (Intro) in Java">
+      <option name="closed" value="true" />
+      <created>1747610646065</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1747610646065</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -640,7 +637,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-9 : Part-3 : 9.3 Thread Creation - 2 : Multithreading Case Studies - Creating Threads (Part 2) in Java - By using &quot;Runnable&quot; class" />
     <MESSAGE value="Chapter-9 : Part-4 : 9.4 Thread class methods (Part 1) in Java" />
     <MESSAGE value="Chapter-9 : Part-4 : 9.4 - change the folder name" />
     <MESSAGE value="Chapter-9 : Part-4 : 9.4 - set the folder name in images path in .md file" />
@@ -665,6 +661,7 @@
     <MESSAGE value="Chapter-11 : Part-1, Part-2, Part-3 : Notepad Project" />
     <MESSAGE value="Chapter-12 : Socket_Programming_RMI Part:1-2-3" />
     <MESSAGE value="Chapter-13 : Chat Application using Socket Programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-13 : Chat Application using Socket Programming" />
+    <MESSAGE value="Chapter-14 : Part-1 : Data Structure &amp; Arrays (Intro) in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-1 : Data Structure &amp; Arrays (Intro) in Java" />
   </component>
 </project>
