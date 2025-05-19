@@ -14,6 +14,8 @@ public class Test1 {
 //        a[1]=20;
 //        a[2]=30;
 
+        // int a1, []b1;  // compile time error
+
         int[] a = {10, 20, 30};
 
         System.out.println("Array Length : " + a.length);
