@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-4 : Three Dimensional Array in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/5. Matrix_Jagged_Anonymous_Arrays_ArraysClass.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_5/demo/AnonymousArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_5/demo/ArraysDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_5/demo/DifferentWaysToPrintArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_5/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_5/demo/TwoDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_5/images/MatrixArrayOrJaggedArray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/Chapter_14_Arrays/5. Matrix__Jagged_Array_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/6. Arrays_Program_Sorting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/BubbleSortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/MinMaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/images/BubbleSort.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +65,8 @@
     "Application.AnimalManin.executor": "Run",
     "Application.AnonymousArray.executor": "Run",
     "Application.ArraysDemo.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.BubbleSortString.executor": "Run",
     "Application.CheckAnagram.executor": "Run",
     "Application.CheckForPalindrome.executor": "Run",
     "Application.ClgAdmin.executor": "Run",
@@ -82,6 +82,7 @@
     "Application.FirstRepeatingCharacter.executor": "Run",
     "Application.Login.executor": "Run",
     "Application.MaxOccurringChar.executor": "Run",
+    "Application.MinMaxElement.executor": "Run",
     "Application.MinOccuringChar.executor": "Run",
     "Application.MinOccurringCharacter.executor": "Run",
     "Application.MultiCatchBlock1.executor": "Run",
@@ -109,6 +110,7 @@
     "Application.RemoveDuplicatesFromString.executor": "Run",
     "Application.RevAString.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.SecondLargestElement.executor": "Run",
     "Application.Server.executor": "Run",
     "Application.ServerMain.executor": "Run",
     "Application.StringDemo.executor": "Run",
@@ -183,13 +185,14 @@
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_12_Socket_Programming_RMI" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_6\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_5\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_4\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_2\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_1\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jayshah.Chapter_14_Arrays._6" />
       <recent name="com.jayshah.chapter_3_Control_Statements._6_Star_Pattern_Programs" />
     </key>
   </component>
@@ -235,14 +238,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Chapter-5 : &#10;part-1:: AWT &amp; Swing, &#10;part-2::Events in AWT">
-      <option name="closed" value="true" />
-      <created>1734066573618</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1734066573618</updated>
     </task>
     <task id="LOCAL-00044" summary="Chapter-6 : TicTac Game">
       <option name="closed" value="true" />
@@ -628,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747669806994</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java">
+      <option name="closed" value="true" />
+      <created>1747683532517</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1747683532517</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -644,7 +647,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-9 : Part-5 : 9.5 Thread class methods (Part 2) in Java" />
     <MESSAGE value="Chapter-9 : Part-5 : 9.5 Thread class methods (Part 2) in Java - join() method and differences added" />
     <MESSAGE value="Chapter-9 : Part-6 : 9.6 Thread class methods (Part 3) in Java" />
     <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1)" />
@@ -669,6 +671,7 @@
     <MESSAGE value="Chapter-14 : Part-2 : Single Dimensional Array in Java - notes updated" />
     <MESSAGE value="Chapter-14 : Part-3 : Two Dimensional Array in Java" />
     <MESSAGE value="Chapter-14 : Part-4 : Three Dimensional Array in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-4 : Three Dimensional Array in Java" />
+    <MESSAGE value="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java" />
   </component>
 </project>
