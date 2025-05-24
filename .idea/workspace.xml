@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-6 : Arrays_Program_Sorting">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/7. Arrays_Program_Searching_I_D.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/CheckNoOfEvenOdds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/CheckNoOfEvenOdds2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/Deletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/DuplicateElementsInTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/FindDuplicate1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/FindDuplicate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/FirstDuplicateElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/Insertion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/Insertion2.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/8. Arrays_Program_OthersProgram.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/ArrayVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/CountPrintVowelPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/PasswordGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/tictactoegamenew/TicTacToeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +64,7 @@
     "Application.AnagramCheck.executor": "Run",
     "Application.AnimalManin.executor": "Run",
     "Application.AnonymousArray.executor": "Run",
+    "Application.ArrayVowels.executor": "Run",
     "Application.ArraysDemo.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.BubbleSortString.executor": "Run",
@@ -79,6 +76,7 @@
     "Application.ClientMain.executor": "Run",
     "Application.ConsoleDemo.executor": "Run",
     "Application.CopyFileDemo.executor": "Run",
+    "Application.CountPrintVowelPair.executor": "Run",
     "Application.CountStringWords.executor": "Run",
     "Application.DeadlockDemo.executor": "Run",
     "Application.Deletion.executor": "Run",
@@ -113,6 +111,7 @@
     "Application.NumberPattern7.executor": "Run",
     "Application.NumberPattern8.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
+    "Application.PasswordGenerator.executor": "Run",
     "Application.PrintFactorial2.executor": "Run",
     "Application.PrintStreamDemo.executor": "Run",
     "Application.ReadData.executor": "Run",
@@ -156,6 +155,7 @@
     "Application.TryCatch8.executor": "Run",
     "Application.TryCatchFinally5.executor": "Run",
     "Application.TryCatchFinally7.executor": "Run",
+    "Application.UserInput.executor": "Run",
     "Application.Vlc1.executor": "Run",
     "Application.Vlc2.executor": "Run",
     "Application.Voting.executor": "Run",
@@ -176,6 +176,7 @@
     "Application._7_StarPattern5.executor": "Run",
     "Application._8_StarPattern6.executor": "Run",
     "Application._9_StarPattern7.executor": "Run",
+    "Application.com.jayshah.Chapter_14_Arrays._8.tictactoegamenew.TicTacToeGame.executor": "Run",
     "Application.tenp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
@@ -251,14 +252,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction">
-      <option name="closed" value="true" />
-      <created>1742053916069</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1742053916069</updated>
     </task>
     <task id="LOCAL-00046" summary="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes">
       <option name="closed" value="true" />
@@ -644,7 +637,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747704844888</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete">
+      <option name="closed" value="true" />
+      <created>1748103997160</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1748103997160</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -660,7 +661,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-9 : Part-6 : 9.6 Thread class methods (Part 3) in Java" />
     <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1)" />
     <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1) : images adjust" />
     <MESSAGE value="Chapter-9 : Part-8 : 9.8 Synchronization in Java (Part 2)" />
@@ -685,6 +685,7 @@
     <MESSAGE value="Chapter-14 : Part-4 : Three Dimensional Array in Java" />
     <MESSAGE value="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java" />
     <MESSAGE value="Chapter-14 : Part-6 : Arrays_Program_Sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-6 : Arrays_Program_Sorting" />
+    <MESSAGE value="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete" />
   </component>
 </project>
