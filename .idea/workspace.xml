@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/6. Arrays_Program_Sorting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/BubbleSortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/MinMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/SecondLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_6/images/BubbleSort.png" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-6 : Arrays_Program_Sorting">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/7. Arrays_Program_Searching_I_D.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/CheckNoOfEvenOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/CheckNoOfEvenOdds2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/Deletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/DuplicateElementsInTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/FindDuplicate1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/FindDuplicate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/FirstDuplicateElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/Insertion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_7/Insertion2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,17 +73,26 @@
     "Application.BubbleSortString.executor": "Run",
     "Application.CheckAnagram.executor": "Run",
     "Application.CheckForPalindrome.executor": "Run",
+    "Application.CheckNoOfEvenOdds.executor": "Run",
+    "Application.CheckNoOfEvenOdds2.executor": "Run",
     "Application.ClgAdmin.executor": "Run",
     "Application.ClientMain.executor": "Run",
     "Application.ConsoleDemo.executor": "Run",
     "Application.CopyFileDemo.executor": "Run",
     "Application.CountStringWords.executor": "Run",
     "Application.DeadlockDemo.executor": "Run",
+    "Application.Deletion.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DifferentWaysToPrintArray.executor": "Run",
     "Application.DuplicateCharacters.executor": "Run",
+    "Application.DuplicateElementsInTwoArrays.executor": "Run",
+    "Application.FindDuplicate1.executor": "Run",
+    "Application.FindDuplicate2.executor": "Run",
+    "Application.FirstDuplicateElement.executor": "Run",
     "Application.FirstRepeatingChar.executor": "Run",
     "Application.FirstRepeatingCharacter.executor": "Run",
+    "Application.Insertion1.executor": "Run",
+    "Application.Insertion2.executor": "Run",
     "Application.Login.executor": "Run",
     "Application.MaxOccurringChar.executor": "Run",
     "Application.MinMaxElement.executor": "Run",
@@ -238,14 +251,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Chapter-6 : TicTac Game">
-      <option name="closed" value="true" />
-      <created>1742043018043</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1742043018043</updated>
     </task>
     <task id="LOCAL-00045" summary="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction">
       <option name="closed" value="true" />
@@ -631,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747683532517</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Chapter-14 : Part-6 : Arrays_Program_Sorting">
+      <option name="closed" value="true" />
+      <created>1747704844888</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1747704844888</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -647,7 +660,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-9 : Part-5 : 9.5 Thread class methods (Part 2) in Java - join() method and differences added" />
     <MESSAGE value="Chapter-9 : Part-6 : 9.6 Thread class methods (Part 3) in Java" />
     <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1)" />
     <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1) : images adjust" />
@@ -672,6 +684,7 @@
     <MESSAGE value="Chapter-14 : Part-3 : Two Dimensional Array in Java" />
     <MESSAGE value="Chapter-14 : Part-4 : Three Dimensional Array in Java" />
     <MESSAGE value="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java" />
+    <MESSAGE value="Chapter-14 : Part-6 : Arrays_Program_Sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-6 : Arrays_Program_Sorting" />
   </component>
 </project>
