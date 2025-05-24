@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/8. Arrays_Program_OthersProgram.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/ArrayVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/CountPrintVowelPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/PasswordGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/Chapter_14_Arrays/_8/tictactoegamenew/TicTacToeGame.java" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-14 : Part-8 : Arrays_Program_OthersProgram">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/1. Intro_Collection_Framework.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_1/images/1.AOA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_1/images/2.PAC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_1/images/CollectionDia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_1/images/DS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_1/images/Hierarchy_Collection_Framework.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/1. Collection_Framework_introduction_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +184,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/Chapter_14_Arrays",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_15_Collection_Framework_Generics/_1/images",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -192,18 +193,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_1\images" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_15_Collection_Framework_Generics" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_14_Arrays" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_1\demo2" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_13_Chat_Application_Project3\part2" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_12_Socket_Programming_RMI" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_1\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_6\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_5\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_4\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_3\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_2\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jayshah.Chapter_14_Arrays._6" />
@@ -252,14 +253,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Chapter-7 : Part-1 : 7.1 Exception and Error Introduction - minor changes">
-      <option name="closed" value="true" />
-      <created>1742159517865</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1742159517865</updated>
     </task>
     <task id="LOCAL-00047" summary="Chapter-7 : Part-2 : 7.2 Checked &amp; Unchecked Exception in Java, Throw keyword">
       <option name="closed" value="true" />
@@ -645,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748103997160</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Chapter-14 : Part-8 : Arrays_Program_OthersProgram">
+      <option name="closed" value="true" />
+      <created>1748111706477</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1748111706477</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -661,7 +662,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1)" />
     <MESSAGE value="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1) : images adjust" />
     <MESSAGE value="Chapter-9 : Part-8 : 9.8 Synchronization in Java (Part 2)" />
     <MESSAGE value="Chapter-9 : Part-9 : 9.9 Synchronization in Java (Part 3)" />
@@ -686,6 +686,7 @@
     <MESSAGE value="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java" />
     <MESSAGE value="Chapter-14 : Part-6 : Arrays_Program_Sorting" />
     <MESSAGE value="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete" />
+    <MESSAGE value="Chapter-14 : Part-8 : Arrays_Program_OthersProgram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-14 : Part-8 : Arrays_Program_OthersProgram" />
   </component>
 </project>
