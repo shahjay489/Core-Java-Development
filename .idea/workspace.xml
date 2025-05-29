@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-5 : Vector">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/6. Stack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/StackDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/StackDemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/StackDemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images/StackLegacyClass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images/StackProgramDia1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images/StackProgramDia2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images/StackWorking.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-6 : Stack - pdf added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +179,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -198,8 +188,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_6\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_15_Collection_Framework_Generics" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_6\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_1\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_14_Arrays" />
@@ -258,22 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Chapter-8 : Part-3 : 8.3 StringBuffer, StringBuilder &amp; StringTokenizer class methods in Java">
-      <option name="closed" value="true" />
-      <created>1743211361163</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1743211361163</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Chapter-8 : Part-4 : 8.4 String Programs - 1 in Java">
-      <option name="closed" value="true" />
-      <created>1743220355521</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1743220355521</updated>
     </task>
     <task id="LOCAL-00056" summary="Chapter-8 : pdf files added">
       <option name="closed" value="true" />
@@ -651,7 +625,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748485651561</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Chapter-15 : Part-6 : Stack">
+      <option name="closed" value="true" />
+      <created>1748519277207</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1748519277207</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Chapter-15 : Part-6 : Stack - pdf added">
+      <option name="closed" value="true" />
+      <created>1748519320440</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1748519320440</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -667,8 +657,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-10 : Part-2 : 10.2 Character Stream in Java &amp; Dynamic Input Approaches" />
-    <MESSAGE value="Chapter-10 : Part-3 : 10.3 Byte Stream : InputStream &amp; OutputStream classes in Java" />
     <MESSAGE value="Chapter-10 : Part-4 : 10.4 Character Stream Classes : Reader &amp; Writer classes explanation in Java" />
     <MESSAGE value="Chapter-10 : Part-5 : 10.5 File Handling in Java" />
     <MESSAGE value="Chapter-10 : Part-5 : 10.5 File Handling in Java - pdf file added" />
@@ -692,6 +680,8 @@
     <MESSAGE value="Chapter-15 : Part-3 : List &amp; ArrayList in Java (Programs and more notes)" />
     <MESSAGE value="Chapter-15 : Part-4 : LinkedList in Java" />
     <MESSAGE value="Chapter-15 : Part-5 : Vector" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-5 : Vector" />
+    <MESSAGE value="Chapter-15 : Part-6 : Stack" />
+    <MESSAGE value="Chapter-15 : Part-6 : Stack - pdf added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-6 : Stack - pdf added" />
   </component>
 </project>
