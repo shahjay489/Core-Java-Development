@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-4 : LinkedList in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/5. Vector.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_5/VectorDemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_5/VectorDemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_5/VectorDemo/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_5/VectorDemo/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_5/images/vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/5. Vector_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-5 : Vector">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/6. Stack.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/StackDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/StackDemo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/StackDemo/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images/StackLegacyClass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images/StackProgramDia1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images/StackProgramDia2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images/StackWorking.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +189,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_15_Collection_Framework_Generics/_6/images",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -197,18 +198,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_6\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_15_Collection_Framework_Generics" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_1\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_14_Arrays" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\Chapter_14_Arrays\_1\demo2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_6\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_5\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_4\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_2\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_1\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jayshah.Chapter_14_Arrays._6" />
@@ -257,14 +258,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Chapter-8 : Part-2 : 8.2 String Class Constructors and Methods in Java">
-      <option name="closed" value="true" />
-      <created>1743035335187</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1743035335187</updated>
     </task>
     <task id="LOCAL-00054" summary="Chapter-8 : Part-3 : 8.3 StringBuffer, StringBuilder &amp; StringTokenizer class methods in Java">
       <option name="closed" value="true" />
@@ -650,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748434449187</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Chapter-15 : Part-5 : Vector">
+      <option name="closed" value="true" />
+      <created>1748485651561</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1748485651561</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -666,7 +667,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-10 : Part-1 : 10.1 Byte Stream in Java" />
     <MESSAGE value="Chapter-10 : Part-2 : 10.2 Character Stream in Java &amp; Dynamic Input Approaches" />
     <MESSAGE value="Chapter-10 : Part-3 : 10.3 Byte Stream : InputStream &amp; OutputStream classes in Java" />
     <MESSAGE value="Chapter-10 : Part-4 : 10.4 Character Stream Classes : Reader &amp; Writer classes explanation in Java" />
@@ -691,6 +691,7 @@
     <MESSAGE value="Chapter-15 : Part-3 : List &amp; ArrayList in Java (half from Constructors of ArrayList)" />
     <MESSAGE value="Chapter-15 : Part-3 : List &amp; ArrayList in Java (Programs and more notes)" />
     <MESSAGE value="Chapter-15 : Part-4 : LinkedList in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-4 : LinkedList in Java" />
+    <MESSAGE value="Chapter-15 : Part-5 : Vector" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-5 : Vector" />
   </component>
 </project>
