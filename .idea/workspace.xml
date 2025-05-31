@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-7 : What we completed in Collections : List part">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/8. Cursors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_8/CursorsDemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_8/CursorsDemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_8/CursorsDemo/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_8/CursorsDemo/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_8/images/EnumerationProgramCursor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/8. Cursors_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-8 : Cursors in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/9. Set_I_HashSet_C.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_9/images/HierarchySet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_9/images/SetDia1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_9/images/SetDia2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_9/images/SetPrpt1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_9/images/WorkingHashSet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/9. Set_HashSet_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -204,18 +204,18 @@
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\Chapter_14_Arrays" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_9\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_8\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_7\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_6\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_5\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_4\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jayshah.Chapter_14_Arrays._6" />
       <recent name="com.jayshah.chapter_3_Control_Statements._6_Star_Pattern_Programs" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PrintFactorial2">
     <configuration name="PrintFactorial2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jayshah.chapter_3_Control_Statements._5_Control_Statements_Programs.PrintFactorial2" />
       <module name="CoreJavaDevelopment" />
@@ -257,14 +257,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Chapter-8 : Part-5 : 8.5 String Programs - 2 in Java">
-      <option name="closed" value="true" />
-      <created>1743881084929</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1743881084929</updated>
     </task>
     <task id="LOCAL-00058" summary="Chapter-9 : Part-1 : 9.1 Multithreading Introduction in Java">
       <option name="closed" value="true" />
@@ -650,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748520045957</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Chapter-15 : Part-8 : Cursors in Java">
+      <option name="closed" value="true" />
+      <created>1748574000284</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1748574000284</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -666,7 +666,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-10 : Part-5 : 10.5 File Handling in Java" />
     <MESSAGE value="Chapter-10 : Part-5 : 10.5 File Handling in Java - pdf file added" />
     <MESSAGE value="Chapter-10 : Part-6 : 10.6 Serialization &amp; Externalization in Java" />
     <MESSAGE value="Chapter-11 : Part-1, Part-2, Part-3 : Notepad Project" />
@@ -691,6 +690,7 @@
     <MESSAGE value="Chapter-15 : Part-6 : Stack" />
     <MESSAGE value="Chapter-15 : Part-6 : Stack - pdf added" />
     <MESSAGE value="Chapter-15 : Part-7 : What we completed in Collections : List part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-7 : What we completed in Collections : List part" />
+    <MESSAGE value="Chapter-15 : Part-8 : Cursors in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-8 : Cursors in Java" />
   </component>
 </project>
