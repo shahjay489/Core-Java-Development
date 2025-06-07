@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-11 : TreeSet in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/12. Comparable_Comparator_I.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_12/casesdemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_12/comparatordemo/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_12/demo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_12/demo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_12/demo/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_12/task/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/12. Comparable_Comparator_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-12 : Comparable &amp; Comparator in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/13. Queue_Dequeue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_13/images/HierarchyQueue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_13/images/ImplementationQueue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_13/queueDemo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/13. Queue_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,11 +202,11 @@
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_13\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_11\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_10\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_9\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_8\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_7\images" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_15_Collection_Framework_Generics._11" />
@@ -261,14 +258,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Chapter-9 : Part-4 : 9.4 Thread class methods (Part 1) in Java">
-      <option name="closed" value="true" />
-      <created>1744994098985</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1744994098985</updated>
     </task>
     <task id="LOCAL-00062" summary="Chapter-9 : Part-4 : 9.4 - change the folder name">
       <option name="closed" value="true" />
@@ -654,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748914398649</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Chapter-15 : Part-12 : Comparable &amp; Comparator in Java">
+      <option name="closed" value="true" />
+      <created>1748926511623</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1748926511623</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -670,7 +667,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-12 : Socket_Programming_RMI Part:1-2-3" />
     <MESSAGE value="Chapter-13 : Chat Application using Socket Programming" />
     <MESSAGE value="Chapter-14 : Part-1 : Data Structure &amp; Arrays (Intro) in Java" />
     <MESSAGE value="Chapter-14 : Part-2 : Single Dimensional Array in Java" />
@@ -695,6 +691,7 @@
     <MESSAGE value="Chapter-15 : Part-9 : Set &amp; HashSet in Java" />
     <MESSAGE value="Chapter-15 : Part-10 : LinkedHashSet, SortedSet, NavigableSet in Java" />
     <MESSAGE value="Chapter-15 : Part-11 : TreeSet in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-11 : TreeSet in Java" />
+    <MESSAGE value="Chapter-15 : Part-12 : Comparable &amp; Comparator in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-12 : Comparable &amp; Comparator in Java" />
   </component>
 </project>
