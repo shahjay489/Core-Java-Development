@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-13 : Queue">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/14. ADP_MAP_I.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/CollectionHie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/CollectionHie2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/HierarchyOfMapInterface.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/MapHie1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/MapHie2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/OAC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/OCF1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/util/AbstractListt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/util/ArrayListt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/util/Collectionn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/util/Listt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/14. Map_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-14 : Abstract Design Pattern, Map interface in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/15. Entry_I_HashMap_C.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_15/mapDemo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_15/mapDemo/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_15/mapDemo/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_15/mapDemo/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_15/mapDemo/Test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -267,14 +259,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Chapter-9 : Part-4 : 9.4 - set the folder name in images path in .md file">
-      <option name="closed" value="true" />
-      <created>1744994466250</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1744994466250</updated>
     </task>
     <task id="LOCAL-00064" summary="Chapter-9 : Part-4 : 9.4 - set the folder name in programs path in .md file">
       <option name="closed" value="true" />
@@ -660,7 +644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749338666547</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Chapter-15 : Part-14 : Abstract Design Pattern, Map interface in Java">
+      <option name="closed" value="true" />
+      <created>1749346015281</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1749346015282</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -676,7 +668,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-14 : Part-1 : Data Structure &amp; Arrays (Intro) in Java" />
     <MESSAGE value="Chapter-14 : Part-2 : Single Dimensional Array in Java" />
     <MESSAGE value="Chapter-14 : Part-2 : Single Dimensional Array in Java - notes updated" />
     <MESSAGE value="Chapter-14 : Part-3 : Two Dimensional Array in Java" />
@@ -701,6 +692,7 @@
     <MESSAGE value="Chapter-15 : Part-11 : TreeSet in Java" />
     <MESSAGE value="Chapter-15 : Part-12 : Comparable &amp; Comparator in Java" />
     <MESSAGE value="Chapter-15 : Part-13 : Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-13 : Queue" />
+    <MESSAGE value="Chapter-15 : Part-14 : Abstract Design Pattern, Map interface in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-14 : Abstract Design Pattern, Map interface in Java" />
   </component>
 </project>
