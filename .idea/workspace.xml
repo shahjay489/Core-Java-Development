@@ -4,12 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-12 : Comparable &amp; Comparator in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/13. Queue_Dequeue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_13/images/HierarchyQueue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_13/images/ImplementationQueue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_13/queueDemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/13. Queue_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-13 : Queue">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/14. ADP_MAP_I.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/CollectionHie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/CollectionHie2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/HierarchyOfMapInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/MapHie1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/MapHie2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/OAC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/images/OCF1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/util/AbstractListt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/util/ArrayListt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/util/Collectionn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_14/mapCollectionsDemo/util/Listt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/14. Map_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,143 +65,143 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AlphabetPattern1.executor": "Run",
-    "Application.AnagramCheck.executor": "Run",
-    "Application.AnimalManin.executor": "Run",
-    "Application.AnonymousArray.executor": "Run",
-    "Application.ArrayAndArrayList.executor": "Run",
-    "Application.ArrayVowels.executor": "Run",
-    "Application.ArraysDemo.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.BubbleSortString.executor": "Run",
-    "Application.CheckAnagram.executor": "Run",
-    "Application.CheckForPalindrome.executor": "Run",
-    "Application.CheckNoOfEvenOdds.executor": "Run",
-    "Application.CheckNoOfEvenOdds2.executor": "Run",
-    "Application.ClgAdmin.executor": "Run",
-    "Application.ClientMain.executor": "Run",
-    "Application.ConsoleDemo.executor": "Run",
-    "Application.CopyFileDemo.executor": "Run",
-    "Application.CountPrintVowelPair.executor": "Run",
-    "Application.CountStringWords.executor": "Run",
-    "Application.DeadlockDemo.executor": "Run",
-    "Application.Deletion.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.DifferentWaysToPrintArray.executor": "Run",
-    "Application.DuplicateCharacters.executor": "Run",
-    "Application.DuplicateElementsInTwoArrays.executor": "Run",
-    "Application.FindDuplicate1.executor": "Run",
-    "Application.FindDuplicate2.executor": "Run",
-    "Application.FirstDuplicateElement.executor": "Run",
-    "Application.FirstRepeatingChar.executor": "Run",
-    "Application.FirstRepeatingCharacter.executor": "Run",
-    "Application.Insertion1.executor": "Run",
-    "Application.Insertion2.executor": "Run",
-    "Application.Login.executor": "Run",
-    "Application.MaxOccurringChar.executor": "Run",
-    "Application.MinMaxElement.executor": "Run",
-    "Application.MinOccuringChar.executor": "Run",
-    "Application.MinOccurringCharacter.executor": "Run",
-    "Application.MultiCatchBlock1.executor": "Run",
-    "Application.MyClient.executor": "Run",
-    "Application.MyServer.executor": "Run",
-    "Application.NestedForLoop2.executor": "Run",
-    "Application.Notepad.executor": "Run",
-    "Application.NotepadEditor.executor": "Run",
-    "Application.NumberPattern1.executor": "Run",
-    "Application.NumberPattern2.executor": "Run",
-    "Application.NumberPattern3.executor": "Run",
-    "Application.NumberPattern4.executor": "Run",
-    "Application.NumberPattern5.executor": "Run",
-    "Application.NumberPattern6.executor": "Run",
-    "Application.NumberPattern7.executor": "Run",
-    "Application.NumberPattern8.executor": "Run",
-    "Application.PalindromeChecker.executor": "Run",
-    "Application.PasswordGenerator.executor": "Run",
-    "Application.PrintFactorial2.executor": "Run",
-    "Application.PrintStreamDemo.executor": "Run",
-    "Application.ReadData.executor": "Run",
-    "Application.ReadData2.executor": "Run",
-    "Application.RemAllDuplicates.executor": "Run",
-    "Application.RemCharFromStr.executor": "Run",
-    "Application.RemoveCharacterFromString.executor": "Run",
-    "Application.RemoveDuplicatesFromString.executor": "Run",
-    "Application.RevAString.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.SecondLargestElement.executor": "Run",
-    "Application.Server.executor": "Run",
-    "Application.ServerMain.executor": "Run",
-    "Application.StringDemo.executor": "Run",
-    "Application.StringDemo2.executor": "Run",
-    "Application.StringTokenizerTest1.executor": "Run",
-    "Application.Temp.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.Test2.executor": "Run",
-    "Application.Test3.executor": "Run",
-    "Application.Test4.executor": "Run",
-    "Application.Test5.executor": "Run",
-    "Application.Test6.executor": "Run",
-    "Application.Test7.executor": "Run",
-    "Application.Test8.executor": "Run",
-    "Application.Test9.executor": "Run",
-    "Application.TicTacToeGame.executor": "Run",
-    "Application.TicTacToeGame2.executor": "Run",
-    "Application.TicTacToeGame3.executor": "Run",
-    "Application.TrainBooking.executor": "Run",
-    "Application.TrainEarning.executor": "Run",
-    "Application.TrainReservation.executor": "Run",
-    "Application.TrainReservation2.executor": "Run",
-    "Application.TryCatch1.executor": "Run",
-    "Application.TryCatch10.executor": "Run",
-    "Application.TryCatch11.executor": "Run",
-    "Application.TryCatch2.executor": "Run",
-    "Application.TryCatch3.executor": "Run",
-    "Application.TryCatch4.executor": "Run",
-    "Application.TryCatch5.executor": "Run",
-    "Application.TryCatch6.executor": "Run",
-    "Application.TryCatch7.executor": "Run",
-    "Application.TryCatch8.executor": "Run",
-    "Application.TryCatchFinally5.executor": "Run",
-    "Application.TryCatchFinally7.executor": "Run",
-    "Application.UserInput.executor": "Run",
-    "Application.Vlc1.executor": "Run",
-    "Application.Vlc2.executor": "Run",
-    "Application.Voting.executor": "Run",
-    "Application.WordCount.executor": "Run",
-    "Application.WriteData.executor": "Run",
-    "Application._10_StarPattern8.executor": "Run",
-    "Application._11_StarPattern9.executor": "Run",
-    "Application._1_Fibonacci_Series.executor": "Run",
-    "Application._1_NestedForLoop1.executor": "Run",
-    "Application._2_Palindrome_Number.executor": "Run",
-    "Application._3_Factorial_Number.executor": "Run",
-    "Application._3_StarPattern1.executor": "Run",
-    "Application._4_Prime_Numbers.executor": "Run",
-    "Application._4_StarPattern2.executor": "Run",
-    "Application._5_Armstrong_Number.executor": "Run",
-    "Application._5_StarPattern3.executor": "Run",
-    "Application._6_StarPattern4.executor": "Run",
-    "Application._7_StarPattern5.executor": "Run",
-    "Application._8_StarPattern6.executor": "Run",
-    "Application._9_StarPattern7.executor": "Run",
-    "Application.com.jayshah.Chapter_14_Arrays._8.tictactoegamenew.TicTacToeGame.executor": "Run",
-    "Application.tenp.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AlphabetPattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnagramCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalManin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnonymousArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayAndArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSortString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckForPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckNoOfEvenOdds.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckNoOfEvenOdds2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClgAdmin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClientMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsoleDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyFileDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountPrintVowelPair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountStringWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeadlockDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deletion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DifferentWaysToPrintArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateElementsInTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicate1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicate2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstDuplicateElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatingChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatingCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Insertion1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Insertion2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOccurringChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinMaxElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinOccuringChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinOccurringCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiCatchBlock1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedForLoop2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Notepad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotepadEditor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPattern4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPattern5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPattern6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPattern7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPattern8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PasswordGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintFactorial2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintStreamDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadData2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemAllDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemCharFromStr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveCharacterFromString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesFromString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ServerMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTokenizerTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TicTacToeGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TicTacToeGame2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TicTacToeGame3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainBooking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainEarning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatchFinally5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatchFinally7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vlc1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vlc2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Voting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteData.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10_StarPattern8.executor&quot;: &quot;Run&quot;,
+    &quot;Application._11_StarPattern9.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1_Fibonacci_Series.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1_NestedForLoop1.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2_Palindrome_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application._3_Factorial_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application._3_StarPattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_Prime_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_StarPattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application._5_Armstrong_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application._5_StarPattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application._6_StarPattern4.executor&quot;: &quot;Run&quot;,
+    &quot;Application._7_StarPattern5.executor&quot;: &quot;Run&quot;,
+    &quot;Application._8_StarPattern6.executor&quot;: &quot;Run&quot;,
+    &quot;Application._9_StarPattern7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.jayshah.Chapter_14_Arrays._8.tictactoegamenew.TicTacToeGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tenp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_15_Collection_Framework_Generics" />
@@ -202,11 +211,11 @@
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_14\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_13\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_11\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_10\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_9\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_8\images" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_15_Collection_Framework_Generics._11" />
@@ -258,14 +267,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Chapter-9 : Part-4 : 9.4 - change the folder name">
-      <option name="closed" value="true" />
-      <created>1744994368320</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1744994368320</updated>
     </task>
     <task id="LOCAL-00063" summary="Chapter-9 : Part-4 : 9.4 - set the folder name in images path in .md file">
       <option name="closed" value="true" />
@@ -651,7 +652,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748926511623</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Chapter-15 : Part-13 : Queue">
+      <option name="closed" value="true" />
+      <created>1749338666547</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1749338666547</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -667,7 +676,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-13 : Chat Application using Socket Programming" />
     <MESSAGE value="Chapter-14 : Part-1 : Data Structure &amp; Arrays (Intro) in Java" />
     <MESSAGE value="Chapter-14 : Part-2 : Single Dimensional Array in Java" />
     <MESSAGE value="Chapter-14 : Part-2 : Single Dimensional Array in Java - notes updated" />
@@ -692,6 +700,7 @@
     <MESSAGE value="Chapter-15 : Part-10 : LinkedHashSet, SortedSet, NavigableSet in Java" />
     <MESSAGE value="Chapter-15 : Part-11 : TreeSet in Java" />
     <MESSAGE value="Chapter-15 : Part-12 : Comparable &amp; Comparator in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-12 : Comparable &amp; Comparator in Java" />
+    <MESSAGE value="Chapter-15 : Part-13 : Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-13 : Queue" />
   </component>
 </project>
