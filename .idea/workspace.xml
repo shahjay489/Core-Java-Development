@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-16 : LinkedHashMap, IdentityHashMap &amp; WeakHashMap class in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/17. SRTMP_NVGMP_I_TM_C.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_17/images/SMNMTM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_17/navigablemapdemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_17/sortedmapdemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_17/treemapdemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_17/treemapdemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/17. SortedMap_NavigableMap_TreeMap_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-17 : SortedMap, NavigableMap &amp; TreeMap in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/18. HT_C_WO_HT_HM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_18/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_18/demo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_18/hashMapDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_18/hashTableDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_18/images/WHM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_18/images/WHT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/18. Hashtable_Working_of_Hashtable_HashMap_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,11 +206,11 @@
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_18\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_17\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_16\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_14\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_13\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_11\images" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_15_Collection_Framework_Generics._11" />
@@ -261,14 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1)">
-      <option name="closed" value="true" />
-      <created>1745782483891</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1745782483891</updated>
     </task>
     <task id="LOCAL-00069" summary="Chapter-9 : Part-7 : 9.7 Synchronization in Java (Part 1) : images adjust">
       <option name="closed" value="true" />
@@ -654,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749702140880</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Chapter-15 : Part-17 : SortedMap, NavigableMap &amp; TreeMap in Java">
+      <option name="closed" value="true" />
+      <created>1749995033600</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1749995033601</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -670,7 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-14 : Part-5 : Matrix, Jagged &amp; Anonymous Arrays; Arrays Class in Java" />
     <MESSAGE value="Chapter-14 : Part-6 : Arrays_Program_Sorting" />
     <MESSAGE value="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete" />
     <MESSAGE value="Chapter-14 : Part-8 : Arrays_Program_OthersProgram" />
@@ -695,6 +695,7 @@
     <MESSAGE value="Chapter-15 : Part-15 : Entry interface &amp; HashMap class in Java - pdf file added" />
     <MESSAGE value="Chapter-15 : Part-16 : LinkedHashMap, IdentityHashMap &amp; WeakHashMap class in Java" />
     <MESSAGE value="How to Prepare?" />
-    <option name="LAST_COMMIT_MESSAGE" value="How to Prepare?" />
+    <MESSAGE value="Chapter-15 : Part-17 : SortedMap, NavigableMap &amp; TreeMap in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-17 : SortedMap, NavigableMap &amp; TreeMap in Java" />
   </component>
 </project>
