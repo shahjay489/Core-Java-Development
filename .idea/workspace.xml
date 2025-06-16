@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-18 : Hashtable &amp; Working of Hashtable &amp; HashMap in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/19. D_P_CC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/images/Hierarchy_CC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/images/Hierarchy_M.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/images/javAP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/images/javaHardcoreValues.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/propertiesdemo/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/propertiesdemo/Register2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/propertiesdemo/Xyz.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/propertiesdemo/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/19. Dictionary_Properties_Concurrent_Classes_in_java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-15 : Part-19 : Dictionary, Properties &amp; Concurrent Classes in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/20. Generics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_20/arraysdemo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_20/arraysdemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_20/arraysdemo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_20/boundsdemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_20/genericmethods/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_20/images/DSDB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_15_Collection_Framework_Generics/_20/images/genericsTypeClassBehavior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics/20. Generics_in_java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -194,7 +193,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_15_Collection_Framework_Generics/_19/propertiesdemo",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/pdf_Files/chapter_15_Collection_Framework_Generics",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -203,18 +202,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_19\propertiesdemo" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_15_Collection_Framework_Generics" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_19\propertiesdemo" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_10\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_6\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_1\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_20\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_19\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_18\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_17\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_16\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_14\images" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_15_Collection_Framework_Generics._11" />
@@ -267,14 +266,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Chapter-9 : Part-8 : 9.8 Synchronization in Java (Part 2)">
-      <option name="closed" value="true" />
-      <created>1746158822887</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1746158822887</updated>
     </task>
     <task id="LOCAL-00071" summary="Chapter-9 : Part-9 : 9.9 Synchronization in Java (Part 3)">
       <option name="closed" value="true" />
@@ -660,7 +651,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750014148792</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Chapter-15 : Part-19 : Dictionary, Properties &amp; Concurrent Classes in Java">
+      <option name="closed" value="true" />
+      <created>1750033977919</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1750033977919</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -676,7 +675,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-14 : Part-7 : Arrays_Program_Searching_Insertion_Delete" />
     <MESSAGE value="Chapter-14 : Part-8 : Arrays_Program_OthersProgram" />
     <MESSAGE value="Chapter-15 : Part-1 : Intro Collection Framework in Java" />
     <MESSAGE value="Change Main Chapter word into small case" />
@@ -701,6 +699,7 @@
     <MESSAGE value="How to Prepare?" />
     <MESSAGE value="Chapter-15 : Part-17 : SortedMap, NavigableMap &amp; TreeMap in Java" />
     <MESSAGE value="Chapter-15 : Part-18 : Hashtable &amp; Working of Hashtable &amp; HashMap in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-18 : Hashtable &amp; Working of Hashtable &amp; HashMap in Java" />
+    <MESSAGE value="Chapter-15 : Part-19 : Dictionary, Properties &amp; Concurrent Classes in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-15 : Part-19 : Dictionary, Properties &amp; Concurrent Classes in Java" />
   </component>
 </project>
