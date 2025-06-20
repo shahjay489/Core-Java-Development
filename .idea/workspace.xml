@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-16 : Part-2 : Lambda Expression in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/3. Functional_Interfaces.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_3/demo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_3/demo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_3/demo/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_3/demo/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_3/demo/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_3/demo/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_3/demo/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_3/images/Difference_PFCS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_16_Java8_Features/3. Predefined_Functional_Interfaces.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-16 : Part-3 : Predefined Functional Interfaces : Predicate, Function, Consumer, Supplier">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/4. StreamAPI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/images/HierarchyStreamAPI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/images/StreamAPIOperationLifeCycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_16_Java8_Features/4. Stream_API_in_Java.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,11 +209,11 @@
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_10\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_16_Java8_Features\_4\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_16_Java8_Features\_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_16_Java8_Features\_2\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_20\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_19\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_18\images" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_15_Collection_Framework_Generics._11" />
@@ -267,14 +266,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Chapter-9 : Part-11 : 9.11 Callable_Future &amp; ThreadLocal class">
-      <option name="closed" value="true" />
-      <created>1746306215350</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1746306215350</updated>
     </task>
     <task id="LOCAL-00075" summary="Chapter-10 : Part-1 : 10.1 Byte Stream in Java">
       <option name="closed" value="true" />
@@ -660,7 +651,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750298043230</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Chapter-16 : Part-3 : Predefined Functional Interfaces : Predicate, Function, Consumer, Supplier">
+      <option name="closed" value="true" />
+      <created>1750378862625</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1750378862625</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -676,7 +675,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-15 : Part-2 : Collection Interface in Java" />
     <MESSAGE value="Chapter-15 : Part-3 : List &amp; ArrayList in Java (half from Constructors of ArrayList)" />
     <MESSAGE value="Chapter-15 : Part-3 : List &amp; ArrayList in Java (Programs and more notes)" />
     <MESSAGE value="Chapter-15 : Part-4 : LinkedList in Java" />
@@ -701,6 +699,7 @@
     <MESSAGE value="Chapter-15 : Part-20 : Generics in Java" />
     <MESSAGE value="Chapter-16 : Part-1 : Default &amp; Static Methods in Interface; Functional Interface" />
     <MESSAGE value="Chapter-16 : Part-2 : Lambda Expression in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-16 : Part-2 : Lambda Expression in Java" />
+    <MESSAGE value="Chapter-16 : Part-3 : Predefined Functional Interfaces : Predicate, Function, Consumer, Supplier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-16 : Part-3 : Predefined Functional Interfaces : Predicate, Function, Consumer, Supplier" />
   </component>
 </project>
