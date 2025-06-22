@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-16 : Part-3 : Predefined Functional Interfaces : Predicate, Function, Consumer, Supplier">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/4. StreamAPI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/images/HierarchyStreamAPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/images/StreamAPIOperationLifeCycle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_4/streamapidemo/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_16_Java8_Features/4. Stream_API_in_Java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-16 : Part-4 : Stream API in Java - minor changes">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/5. Method_R_Constructor_R.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/MethodConstructorRefDemo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/MethodConstructorRefDemo/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/MethodConstructorRefDemo/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/MethodConstructorRefDemo/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/MethodConstructorRefDemo/TestTriky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/StreamDemoTask/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/StreamDemoTask/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/StreamDemoTask/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/StreamDemoTask/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/StreamDemoTask/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/StreamDemoTask/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_5/StreamDemoTask/Test7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,6 +149,7 @@
     "Application.Test7.executor": "Run",
     "Application.Test8.executor": "Run",
     "Application.Test9.executor": "Run",
+    "Application.TestTriky.executor": "Run",
     "Application.TicTacToeGame.executor": "Run",
     "Application.TicTacToeGame2.executor": "Run",
     "Application.TicTacToeGame3.executor": "Run",
@@ -266,22 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Chapter-10 : Part-1 : 10.1 Byte Stream in Java">
-      <option name="closed" value="true" />
-      <created>1746323496177</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1746323496177</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Chapter-10 : Part-2 : 10.2 Character Stream in Java &amp; Dynamic Input Approaches">
-      <option name="closed" value="true" />
-      <created>1746389919901</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1746389919901</updated>
     </task>
     <task id="LOCAL-00077" summary="Chapter-10 : Part-3 : 10.3 Byte Stream : InputStream &amp; OutputStream classes in Java">
       <option name="closed" value="true" />
@@ -659,7 +648,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750378862625</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Chapter-16 : Part-4 : Stream API in Java">
+      <option name="closed" value="true" />
+      <created>1750389516305</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1750389516305</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Chapter-16 : Part-4 : Stream API in Java - minor changes">
+      <option name="closed" value="true" />
+      <created>1750470895871</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1750470895871</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -675,8 +680,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-15 : Part-3 : List &amp; ArrayList in Java (half from Constructors of ArrayList)" />
-    <MESSAGE value="Chapter-15 : Part-3 : List &amp; ArrayList in Java (Programs and more notes)" />
     <MESSAGE value="Chapter-15 : Part-4 : LinkedList in Java" />
     <MESSAGE value="Chapter-15 : Part-5 : Vector" />
     <MESSAGE value="Chapter-15 : Part-6 : Stack" />
@@ -700,6 +703,8 @@
     <MESSAGE value="Chapter-16 : Part-1 : Default &amp; Static Methods in Interface; Functional Interface" />
     <MESSAGE value="Chapter-16 : Part-2 : Lambda Expression in Java" />
     <MESSAGE value="Chapter-16 : Part-3 : Predefined Functional Interfaces : Predicate, Function, Consumer, Supplier" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-16 : Part-3 : Predefined Functional Interfaces : Predicate, Function, Consumer, Supplier" />
+    <MESSAGE value="Chapter-16 : Part-4 : Stream API in Java" />
+    <MESSAGE value="Chapter-16 : Part-4 : Stream API in Java - minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-16 : Part-4 : Stream API in Java - minor changes" />
   </component>
 </project>
