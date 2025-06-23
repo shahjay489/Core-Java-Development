@@ -4,18 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-16 : Part-5 : Method Reference Constructor Reference in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/6. Date_Time_API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_6/demoNew/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_6/demoNew/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_6/demoNew/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_6/demoNew/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_6/demoNew/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_6/demoNew/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_6/demoNew/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_16_Java8_Features/_6/demoOld/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_16_Java8_Features/6. Date_Time_API_in_Java.pdf" afterDir="false" />
+    <list default="true" id="1515458c-e31b-4831-954a-4a6c37cd3d4d" name="Changes" comment="Chapter-16 : Part-6 : Date &amp; Time API in Java">
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/1. D_I_mySql8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/2. SQL_Queries.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/3. JDBC_Select_Query.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/4. JDBC_I_U_D_Queries.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/5. JDBC_Development.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_1/JavaMySqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_3/JavaMysqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_3/images/ProgramWorkingDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_4/insertDemo/DeleteValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_4/insertDemo/InsertValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_4/insertDemo/UpdateValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_4/taskDemo/UserInputLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/dbconnection/DbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/dbconnection/dbdetails.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/demo/CrudOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/mainpkg/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/mainpkg/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/mainpkg/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/mysql-connector-java-8.0.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jayshah/pdf_Files/chapter_17_Java_Database_Connecticity/2. SQL_Queries.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaDevelopment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJavaDevelopment.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +96,7 @@
     "Application.CountPrintVowelPair.executor": "Run",
     "Application.CountStringWords.executor": "Run",
     "Application.DeadlockDemo.executor": "Run",
+    "Application.DeleteValues.executor": "Run",
     "Application.Deletion.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DifferentWaysToPrintArray.executor": "Run",
@@ -94,8 +107,11 @@
     "Application.FirstDuplicateElement.executor": "Run",
     "Application.FirstRepeatingChar.executor": "Run",
     "Application.FirstRepeatingCharacter.executor": "Run",
+    "Application.InsertValues.executor": "Run",
     "Application.Insertion1.executor": "Run",
     "Application.Insertion2.executor": "Run",
+    "Application.JavaMySqlConnection.executor": "Run",
+    "Application.JavaMysqlConnection.executor": "Run",
     "Application.Login.executor": "Run",
     "Application.MaxOccurringChar.executor": "Run",
     "Application.MinMaxElement.executor": "Run",
@@ -167,6 +183,7 @@
     "Application.TryCatchFinally5.executor": "Run",
     "Application.TryCatchFinally7.executor": "Run",
     "Application.UserInput.executor": "Run",
+    "Application.UserInputLogin.executor": "Run",
     "Application.Vlc1.executor": "Run",
     "Application.Vlc2.executor": "Run",
     "Application.Voting.executor": "Run",
@@ -195,27 +212,27 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_16_Java8_Features/_6",
+    "last_opened_file_path": "D:/Java-SmartProgramming/CoreJavaDevelopment/src/com/jayshah/chapter_17_Java_Database_Connecticity/_5/mysql-connector-java-8.0.11.jar",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_17_Java_Database_Connecticity\_4" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_17_Java_Database_Connecticity" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_16_Java8_Features\_6" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_16_Java8_Features" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\pdf_Files\chapter_15_Collection_Framework_Generics" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_19\propertiesdemo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_17_Java_Database_Connecticity\_4\insertDemo" />
+      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_17_Java_Database_Connecticity\_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_16_Java8_Features\_4\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_16_Java8_Features\_3\images" />
       <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_16_Java8_Features\_2\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_20\images" />
-      <recent name="D:\Java-SmartProgramming\CoreJavaDevelopment\src\com\jayshah\chapter_15_Collection_Framework_Generics\_19\images" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jayshah.chapter_15_Collection_Framework_Generics._11" />
@@ -268,14 +285,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731777559028</updated>
-    </task>
-    <task id="LOCAL-00078" summary="Chapter-10 : Part-4 : 10.4 Character Stream Classes : Reader &amp; Writer classes explanation in Java">
-      <option name="closed" value="true" />
-      <created>1746496338147</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1746496338147</updated>
     </task>
     <task id="LOCAL-00079" summary="Chapter-10 : Part-5 : 10.5 File Handling in Java">
       <option name="closed" value="true" />
@@ -661,7 +670,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750561337951</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Chapter-16 : Part-6 : Date &amp; Time API in Java">
+      <option name="closed" value="true" />
+      <created>1750606165760</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1750606165760</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -677,7 +694,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chapter-15 : Part-5 : Vector" />
     <MESSAGE value="Chapter-15 : Part-6 : Stack" />
     <MESSAGE value="Chapter-15 : Part-6 : Stack - pdf added" />
     <MESSAGE value="Chapter-15 : Part-7 : What we completed in Collections : List part" />
@@ -702,6 +718,7 @@
     <MESSAGE value="Chapter-16 : Part-4 : Stream API in Java" />
     <MESSAGE value="Chapter-16 : Part-4 : Stream API in Java - minor changes" />
     <MESSAGE value="Chapter-16 : Part-5 : Method Reference Constructor Reference in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter-16 : Part-5 : Method Reference Constructor Reference in Java" />
+    <MESSAGE value="Chapter-16 : Part-6 : Date &amp; Time API in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter-16 : Part-6 : Date &amp; Time API in Java" />
   </component>
 </project>
